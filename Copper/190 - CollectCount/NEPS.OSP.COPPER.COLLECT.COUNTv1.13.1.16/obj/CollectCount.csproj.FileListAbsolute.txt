@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\COLLECT COUNT\NEPS.OSP.COPPER.COLLECT.COUNT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\COLLECT COUNT\NEPS.OSP.COPPER.COLLECT.COUNT\obj\Debug\NEPS.OSP.COPPER.COLLECT.COUNT.frmCollectCount.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\COLLECT COUNT\NEPS.OSP.COPPER.COLLECT.COUNT\obj\Debug\NEPS.OSP.COPPER.COLLECT.COUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\COLLECT COUNT\NEPS.OSP.COPPER.COLLECT.COUNT\obj\Debug\CollectCount.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.COLLECT.COUNT.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.COLLECT.COUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\COLLECT COUNT\NEPS.OSP.COPPER.COLLECT.COUNT\obj\Debug\NEPS.OSP.COPPER.COLLECT.COUNT.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\COLLECT COUNT\NEPS.OSP.COPPER.COLLECT.COUNT\obj\Debug\NEPS.OSP.COPPER.COLLECT.COUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\COLLECT COUNT\NEPS.OSP.COPPER.COLLECT.COUNT\obj\Debug\NEPS.OSP.COPPER.COLLECT.COUNT.clsReturnD.resources

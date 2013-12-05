@@ -1,0 +1,37 @@
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\AG.SubDuctPlacement.csproj.ResolveComReference.cache
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\AG.SubDuctPlacement.csproj.GenerateResource.Cache
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\AG.GTechnology.SubDuctPlacement.Properties.Resources.resources
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\AG.GTechnology.SubDuctPlacement.DuctCtrl.resources
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\AG.GTechnology.SubDuctPlacement.Forms.SubDuctForm.resources
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\SubDuctPlacement.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\SubDuctPlacement.pdb
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\SubDuctPlc\DuctnestPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\SubDuctPlacement.dll
+C:\Code\SubDuctPlc\DuctnestPlacement\obj\Debug\SubDuctPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\AG.SubDuctPlacement.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\AG.GTechnology.SubDuctPlacement.DuctCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\AG.GTechnology.SubDuctPlacement.Forms.SubDuctForm.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\AG.GTechnology.SubDuctPlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\AG.SubDuctPlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\SubDuctPlacement.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\obj\Debug\SubDuctPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\SubDuctPlacement.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\SubDuctPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\SubDuct_InnerDuct_Plc v3.0.0.0\Source Code\DuctnestPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml

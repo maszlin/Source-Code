@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.0\obj\Debug\NEPSDSLAMConfig.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.0\obj\Debug\NEPS.GTechnology.DSLAMConfig.GTDSLAMForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.0\obj\Debug\NEPS.GTechnology.DSLAMConfig.Properties.Resources.resources
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.DSLAMConfig.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.DSLAMConfig.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.0\obj\Debug\NEPS.DSLAMConfig.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.0\obj\Debug\NEPS.DSLAMConfig.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.1\obj\Debug\NEPS.GTechnology.DSLAMConfig.GTDSLAMForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.1\obj\Debug\NEPS.GTechnology.DSLAMConfig.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.1\obj\Debug\NEPSDSLAMConfig.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.1\obj\Debug\NEPS.DSLAMConfig.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.1\obj\Debug\NEPS.DSLAMConfig.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.2\obj\Debug\NEPS.GTechnology.DSLAMConfig.GTDSLAMForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.2\obj\Debug\NEPS.GTechnology.DSLAMConfig.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.2\obj\Debug\NEPSDSLAMConfig.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.2\obj\Debug\NEPS.DSLAMConfig.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\DSLAM Config 1.2\obj\Debug\NEPS.DSLAMConfig.pdb

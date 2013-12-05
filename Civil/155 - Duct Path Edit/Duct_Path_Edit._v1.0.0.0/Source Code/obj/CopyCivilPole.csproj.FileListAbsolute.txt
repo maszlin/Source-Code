@@ -1,0 +1,9 @@
+C:\Program Files\Intergraph\GTechnology\Program\CopyCivilPole.dll
+C:\Program Files\Intergraph\GTechnology\Program\CopyCivilPole.pdb
+C:\Documents and Settings\Administrator\Desktop\Copy_Pole. v.2\Source Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copy_Pole. v.2\Source Code\obj\Debug\CopyCivilPole.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Copy_Pole. v.2\Source Code\obj\Debug\CopyCivilPole.dll
+C:\Documents and Settings\Administrator\Desktop\Copy_Pole. v.2\Source Code\obj\Debug\CopyCivilPole.pdb
+C:\Documents and Settings\Administrator\Desktop\Copy_Pole. v.2\Source Code\obj\Debug\NEPS.GTechnology.CopyPole.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copy_Pole. v.2\Source Code\obj\Debug\NEPS.GTechnology.CopyPole.Messages.resources
+C:\Documents and Settings\Administrator\Desktop\Copy_Pole. v.2\Source Code\obj\Debug\NEPS.GTechnology.CopyPole.Distance.resources

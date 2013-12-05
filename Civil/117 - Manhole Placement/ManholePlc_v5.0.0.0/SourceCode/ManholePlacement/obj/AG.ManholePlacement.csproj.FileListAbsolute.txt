@@ -1,0 +1,80 @@
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.ResolveComReference.cache
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.GenerateResource.Cache
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Properties.Resources.resources
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Forms.ManholeForm.resources
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.ManholeCtrl.resources
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\NEPS.ManholePlacement.dll
+C:\Code\ManholePlc\ManholePlacement\bin\Debug\NEPS.ManholePlacement.pdb
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\NEPS.ManholePlacement.dll
+C:\Code\ManholePlc\ManholePlacement\obj\Debug\NEPS.ManholePlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Forms.ManholeForm.resources
+C:\Documents and Settings\Administrator\Desktop\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\NEPS.ManholePlacement.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\NEPS.ManholePlacement.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\NEPS.ManholePlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Forms.ManholeForm.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\NEPS.ManholePlacement.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc\ManholePlacement\obj\Debug\NEPS.ManholePlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\NEPS.ManholePlacement.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\NEPS.ManholePlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Forms.ManholeForm.resources
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\NEPS.ManholePlacement.dll
+C:\Documents and Settings\Administrator\Desktop\ManholePlc\ManholePlacement\obj\Debug\NEPS.ManholePlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\NEPS.ManholePlacement.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\NEPS.ManholePlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Forms.ManholeForm.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\AG.GTechnology.ManholePlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\AG.ManholePlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\NEPS.ManholePlacement.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholePlc_v5.0.0.0\SourceCode\ManholePlacement\obj\Debug\NEPS.ManholePlacement.pdb

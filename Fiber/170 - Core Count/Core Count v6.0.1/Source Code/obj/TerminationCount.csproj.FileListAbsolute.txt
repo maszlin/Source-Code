@@ -1,0 +1,20 @@
+D:\Updated Codes\Termination Count v1.0\Termination Count\obj\Debug\ResolveAssemblyReference.cache
+D:\Updated Codes\Termination Count v1.0\Termination Count\obj\Debug\NEPS.GTechnology.TerminationCount.GTWindowsForm_TerminationCount.resources
+D:\Updated Codes\Termination Count v1.0\Termination Count\obj\Debug\NEPS.GTechnology.TerminationCount.Properties.Resources.resources
+D:\Updated Codes\Termination Count v1.0\Termination Count\obj\Debug\TerminationCount.csproj.GenerateResource.Cache
+D:\Updated Codes\Termination Count v1.0\Termination Count\obj\Debug\NEPS.TerminationCount.dll
+D:\Updated Codes\Termination Count v1.0\Termination Count\obj\Debug\NEPS.TerminationCount.pdb
+D:\Updated Codes\Termination Count v1.1\Termination Count\obj\Debug\ResolveAssemblyReference.cache
+D:\Updated Codes\Termination Count v1.1\Termination Count\obj\Debug\NEPS.GTechnology.TerminationCount.GTWindowsForm_TerminationCount.resources
+D:\Updated Codes\Termination Count v1.1\Termination Count\obj\Debug\NEPS.GTechnology.TerminationCount.Properties.Resources.resources
+D:\Updated Codes\Termination Count v1.1\Termination Count\obj\Debug\TerminationCount.csproj.GenerateResource.Cache
+D:\Updated Codes\Termination Count v1.1\Termination Count\obj\Debug\NEPS.TerminationCount.dll
+D:\Updated Codes\Termination Count v1.1\Termination Count\obj\Debug\NEPS.TerminationCount.pdb
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.TerminationCount.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.TerminationCount.pdb
+D:\Updated Codes\Termination Count v1.2\Termination Count\obj\Debug\ResolveAssemblyReference.cache
+D:\Updated Codes\Termination Count v1.2\Termination Count\obj\Debug\NEPS.GTechnology.TerminationCount.GTWindowsForm_TerminationCount.resources
+D:\Updated Codes\Termination Count v1.2\Termination Count\obj\Debug\NEPS.GTechnology.TerminationCount.Properties.Resources.resources
+D:\Updated Codes\Termination Count v1.2\Termination Count\obj\Debug\TerminationCount.csproj.GenerateResource.Cache
+D:\Updated Codes\Termination Count v1.2\Termination Count\obj\Debug\NEPS.TerminationCount.dll
+D:\Updated Codes\Termination Count v1.2\Termination Count\obj\Debug\NEPS.TerminationCount.pdb

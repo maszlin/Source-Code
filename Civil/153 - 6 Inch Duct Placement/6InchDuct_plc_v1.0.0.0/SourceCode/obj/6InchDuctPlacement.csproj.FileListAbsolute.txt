@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\Desktop\6InchDuct_plc_v1.0.0.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\6InchDuct_plc_v1.0.0.0\obj\Debug\NEPS.GTechnology.NEPS6InchDuctPlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\6InchDuct_plc_v1.0.0.0\obj\Debug\6InchDuctPlacement.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS6InchDuctPlacement.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS6InchDuctPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\6InchDuct_plc_v1.0.0.0\obj\Debug\NEPS6InchDuctPlacement.dll
+C:\Documents and Settings\Administrator\Desktop\6InchDuct_plc_v1.0.0.0\obj\Debug\NEPS6InchDuctPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\6InchDuct_plc_v1.0.0.0\SourceCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\6InchDuct_plc_v1.0.0.0\SourceCode\obj\Debug\NEPS.GTechnology.NEPS6InchDuctPlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\6InchDuct_plc_v1.0.0.0\SourceCode\obj\Debug\6InchDuctPlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\6InchDuct_plc_v1.0.0.0\SourceCode\obj\Debug\NEPS6InchDuctPlacement.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\6InchDuct_plc_v1.0.0.0\SourceCode\obj\Debug\NEPS6InchDuctPlacement.pdb

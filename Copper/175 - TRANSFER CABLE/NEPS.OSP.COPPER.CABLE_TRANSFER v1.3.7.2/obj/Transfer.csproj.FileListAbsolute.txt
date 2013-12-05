@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.frmTransfer.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\Transfer.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE_TRANSFER.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE_TRANSFER.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.pdb
+D:\GTECH Custom Commands\CABLE TRANSFER\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\ResolveAssemblyReference.cache
+D:\GTECH Custom Commands\CABLE TRANSFER\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.frmTransfer.resources
+D:\GTECH Custom Commands\CABLE TRANSFER\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.Properties.Resources.resources
+D:\GTECH Custom Commands\CABLE TRANSFER\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\Transfer.csproj.GenerateResource.Cache
+D:\GTECH Custom Commands\CABLE TRANSFER\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.dll
+D:\GTECH Custom Commands\CABLE TRANSFER\NEPS.OSP.COPPER.CABLE_TRANSFER\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.pdb
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.CABLE_TRANSFER v1.3.7.2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.CABLE_TRANSFER v1.3.7.2\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.frmTransfer.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.CABLE_TRANSFER v1.3.7.2\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.CABLE_TRANSFER v1.3.7.2\obj\Debug\Transfer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.CABLE_TRANSFER v1.3.7.2\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.dll
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.CABLE_TRANSFER v1.3.7.2\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER.pdb

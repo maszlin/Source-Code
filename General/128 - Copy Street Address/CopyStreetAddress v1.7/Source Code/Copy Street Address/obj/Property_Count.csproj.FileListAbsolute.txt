@@ -1,0 +1,8 @@
+C:\Chidhu\Chidhu Codes\Property Count\obj\Debug\ResolveAssemblyReference.cache
+C:\Chidhu\Chidhu Codes\Property Count\obj\Debug\NEPS.GTechnology.Property_Count.GTWindowsForm_Property_Count.resources
+C:\Chidhu\Chidhu Codes\Property Count\obj\Debug\NEPS.GTechnology.Property_Count.Properties.Resources.resources
+C:\Chidhu\Chidhu Codes\Property Count\obj\Debug\Property_Count.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\Property_Count.dll
+C:\Program Files\Intergraph\GTechnology\Program\Property_Count.pdb
+C:\Chidhu\Chidhu Codes\Property Count\obj\Debug\Property_Count.dll
+C:\Chidhu\Chidhu Codes\Property Count\obj\Debug\Property_Count.pdb

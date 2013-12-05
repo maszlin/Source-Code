@@ -1,0 +1,17 @@
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\APIHelperInterfaces.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\DuctReport\DuctSpaceReport\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\DuctReport\DuctSpaceReport\obj\Debug\AG.DuctSpaceReport.csproj.ResolveComReference.cache
+C:\Code\DuctReport\DuctSpaceReport\obj\Debug\AG.GTechnology.DuctSpaceReport.Properties.Resources.resources
+C:\Code\DuctReport\DuctSpaceReport\obj\Debug\AG.DuctSpaceReport.csproj.GenerateResource.Cache
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\NEPS.DuctSpaceReport.dll
+C:\Code\DuctReport\DuctSpaceReport\bin\Debug\NEPS.DuctSpaceReport.pdb
+C:\Code\DuctReport\DuctSpaceReport\obj\Debug\NEPS.DuctSpaceReport.dll
+C:\Code\DuctReport\DuctSpaceReport\obj\Debug\NEPS.DuctSpaceReport.pdb

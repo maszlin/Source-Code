@@ -1,0 +1,16 @@
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Release\ResolveAssemblyReference.cache
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Release\NEPS.OSP.COPPER.VALIDATE.frmJointAttribute.resources
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Release\CopperValidate.csproj.GenerateResource.Cache
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\NEPS.OSP.COPPER.VALIDATE.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\NEPS.OSP.COPPER.VALIDATE.pdb
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\Intergraph.GTechnology.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\GTech.Interop.PDiag.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\GTech.Interop.GTech.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\APIHelperInterfaces.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\GTech.Interop.GDO.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\Intergraph.CoordSystems.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\Intergraph.GTechnology.Diagnostics.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\Intergraph.GTechnology.xml
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\bin\Release\Intergraph.GTechnology.Diagnostics.xml
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Release\NEPS.OSP.COPPER.VALIDATE.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Release\NEPS.OSP.COPPER.VALIDATE.pdb

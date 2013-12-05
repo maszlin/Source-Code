@@ -1,0 +1,253 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Text;
+using System.Windows.Forms;
+using Intergraph.GTechnology.API;
+
+using ADODB;
+
+namespace AG.GTechnology.WallNumberPlacement
+{
+    public partial class ManholeCtrl : UserControl
+    {
+        public ManholeCtrl()
+        {
+            InitializeComponent();
+        }
+
+        private IGTKeyObject _oManhole = null;
+        public IGTKeyObject Manhole
+        {
+            set { _oManhole = value; }
+            get { return _oManhole; }
+        }
+
+        private int _fid = 0;
+        public int FID
+        {
+            set { _fid = value; }
+            get { return _fid; }
+        }
+
+        private double _x = 0;
+        public double X
+        {
+            set { _x = value; }
+            get { return _x; }
+        }
+
+        private double _y = 0;
+        public double Y
+        {
+            set { _y = value; }
+            get { return _y; }
+        }
+
+        private IGTPoint _Origin = null;
+        public IGTPoint Origin
+        {
+            set { _Origin = value; }
+            get { return _Origin; }
+        }
+
+        private IGTPoint _RotationPnt = null;
+        public IGTPoint RotationPnt
+        {
+            set { _RotationPnt = value; }
+            get { return _RotationPnt; }
+        }
+
+        private IGTPoint _LabelOrigin = null;
+        public IGTPoint LabelOrigin
+        {
+            set { _LabelOrigin = value; }
+            get { return _LabelOrigin; }
+        }
+
+        private IGTPolylineGeometry _bnd = null;
+        public IGTPolylineGeometry BoundaryGeom
+        {
+            set { _bnd = value; }
+            get { return _bnd; }
+        }
+
+        private string _type = string.Empty;
+        public string ManholeType
+        {
+            set 
+            {
+                _type = value;  
+            }
+            get 
+            {
+                return _type; 
+            }
+        }
+
+        private int _fNbr = 0;
+        public int FirstNumber
+        {
+            set
+            {
+                _fNbr = value;
+            }
+            get
+            {
+                return _fNbr;
+            }
+        }
+
+        private int _style = 2720001;
+        public int ManholeStyle
+        {
+            set
+            {
+                _style = value;
+            }
+            get
+            {
+                return _style;
+            }
+        }
+
+        public void LoadManholeType()
+        {
+            Recordset rsComp = null;
+            int recordsAffected = 0;
+
+            if (string.IsNullOrEmpty(_type)) return;
+
+            Intergraph.GTechnology.API.IGTApplication application;
+            application = GTClassFactory.Create<IGTApplication>();
+
+            string sSql = "select b.MANHOLE_TYPE, b.STYLEID from AG_MANHL b where b.MANHOLE_TYPE='" + _type + "'";
+            rsComp = application.DataContext.Execute(sSql, out recordsAffected, (int)CommandTypeEnum.adCmdText, null);
+
+            if (rsComp != null)
+            {
+                while (!rsComp.EOF)
+                {
+                    if (rsComp.Fields["STYLEID"].Value != DBNull.Value) _style = Convert.ToInt32(rsComp.Fields["STYLEID"].Value);
+
+                    rsComp.MoveNext();
+                }
+            }
+            rsComp = null;
+
+            LoadManholeWall();
+            LoadManholeBoundary();
+        }
+
+        public void LoadManholeWall()
+        {
+            Recordset rsComp = null;
+            int recordsAffected = 0;
+
+            if (string.IsNullOrEmpty(_type)) return;
+            if (ManholeWall == null) _ManholeWall = new List<ManholePoint>();
+            _ManholeWall.Clear();
+
+            Intergraph.GTechnology.API.IGTApplication application;
+            application = GTClassFactory.Create<IGTApplication>();
+
+            string sSql = "select b.X, b.Y, b.ORD from AG_MANHL_WALL b where MANHOLE_TYPE='" + _type + "' order by b.ORD";
+            rsComp = application.DataContext.Execute(sSql, out recordsAffected, (int)CommandTypeEnum.adCmdText, null);
+
+            if (rsComp != null)
+            {
+                while (!rsComp.EOF)
+                {
+                    ManholePoint _pnt = new ManholePoint();
+                    if (rsComp.Fields["X"].Value != DBNull.Value) _pnt.X = Convert.ToDouble(rsComp.Fields["X"].Value);
+                    if (rsComp.Fields["Y"].Value != DBNull.Value) _pnt.Y = Convert.ToDouble(rsComp.Fields["Y"].Value);
+                    if (rsComp.Fields["ORD"].Value != DBNull.Value) _pnt.ORD = Convert.ToInt32(rsComp.Fields["ORD"].Value);
+
+                    _ManholeWall.Add(_pnt);
+
+                    rsComp.MoveNext();
+                }
+            }
+            rsComp = null;
+        }
+
+        public void LoadManholeBoundary()
+        {
+            Recordset rsComp = null;
+            int recordsAffected = 0;
+
+            if (string.IsNullOrEmpty(_type)) return;
+            if (_Boundary == null) _Boundary = new List<ManholePoint>();
+            if (_bnd == null) _bnd = GTClassFactory.Create<IGTPolylineGeometry>();
+            _Boundary.Clear();
+
+            Intergraph.GTechnology.API.IGTApplication application;
+            application = GTClassFactory.Create<IGTApplication>();
+
+            string sSql = "select b.X1, b.Y1, b.X2, b.Y2, b.ORD from AG_MANHL_BND b where MANHOLE_TYPE='" + _type + "' order by b.ORD";
+            rsComp = application.DataContext.Execute(sSql, out recordsAffected, (int)CommandTypeEnum.adCmdText, null);
+
+            if (rsComp != null)
+            {
+                while (!rsComp.EOF)
+                {
+                    ManholePoint _pnt = new ManholePoint();
+                    IGTPoint _point = GTClassFactory.Create<IGTPoint>();
+
+                    if (rsComp.Fields["X1"].Value != DBNull.Value) _pnt.X = Convert.ToDouble(rsComp.Fields["X1"].Value);
+                    if (rsComp.Fields["Y1"].Value != DBNull.Value) _pnt.Y = Convert.ToDouble(rsComp.Fields["Y1"].Value);
+                    if (rsComp.Fields["ORD"].Value != DBNull.Value) _pnt.ORD = Convert.ToInt32(rsComp.Fields["ORD"].Value);
+
+                    _Boundary.Add(_pnt);
+
+                    _point.X = _pnt.X;
+                    _point.Y = _pnt.Y;
+                    _bnd.Points.Add(_point);
+
+                    _pnt = new ManholePoint();
+                    if (rsComp.Fields["X2"].Value != DBNull.Value) _pnt.X = Convert.ToDouble(rsComp.Fields["X2"].Value);
+                    if (rsComp.Fields["Y2"].Value != DBNull.Value) _pnt.Y = Convert.ToDouble(rsComp.Fields["Y2"].Value);
+                    if (rsComp.Fields["ORD"].Value != DBNull.Value) _pnt.ORD = Convert.ToInt32(rsComp.Fields["ORD"].Value);
+
+                    _Boundary.Add(_pnt);
+
+                    _point = GTClassFactory.Create<IGTPoint>();
+                    _point.X = _pnt.X;
+                    _point.Y = _pnt.Y;
+                    _bnd.Points.Add(_point);
+
+                    rsComp.MoveNext();
+                }
+            }
+            rsComp = null;
+        }
+
+        private List<ManholePoint> _ManholeWall = null;
+        public List<ManholePoint> ManholeWall
+        {
+            set
+            {
+                _ManholeWall = value;
+            }
+            get
+            {
+                return _ManholeWall;
+            }
+        }
+
+        private List<ManholePoint> _Boundary = null;
+        public List<ManholePoint> Boundary
+        {
+            set
+            {
+                _Boundary = value;
+            }
+            get
+            {
+                return _Boundary;
+            }
+        }
+    }
+}

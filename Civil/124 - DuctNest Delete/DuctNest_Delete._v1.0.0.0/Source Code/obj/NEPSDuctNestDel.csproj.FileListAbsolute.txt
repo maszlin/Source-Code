@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\Desktop\DuctNest_Delete._v1.0.0.0\Source Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DuctNest_Delete._v1.0.0.0\Source Code\obj\Debug\NEPS.GTechnology.NEPSDuctNestDel.Messages.resources
+C:\Documents and Settings\Administrator\Desktop\DuctNest_Delete._v1.0.0.0\Source Code\obj\Debug\NEPS.GTechnology.NEPSDuctNestDel.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DuctNest_Delete._v1.0.0.0\Source Code\obj\Debug\NEPSDuctNestDel.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPSDuctNestDel.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPSDuctNestDel.pdb
+C:\Documents and Settings\Administrator\Desktop\DuctNest_Delete._v1.0.0.0\Source Code\obj\Debug\NEPSDuctNestDel.dll
+C:\Documents and Settings\Administrator\Desktop\DuctNest_Delete._v1.0.0.0\Source Code\obj\Debug\NEPSDuctNestDel.pdb

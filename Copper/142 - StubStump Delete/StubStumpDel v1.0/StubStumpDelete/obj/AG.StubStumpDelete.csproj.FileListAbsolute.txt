@@ -1,0 +1,17 @@
+C:\Code\StubStumpDel\StubStumpDelete\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\StubStumpDel\StubStumpDelete\obj\Debug\AG.StubStumpDelete.csproj.ResolveComReference.cache
+C:\Code\StubStumpDel\StubStumpDelete\obj\Debug\AG.StubStumpDelete.csproj.GenerateResource.Cache
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\APIHelperInterfaces.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\StubStumpDel\StubStumpDelete\obj\Debug\AG.GTechnology.StubStumpDelete.Properties.Resources.resources
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\NEPS.StubStumpDelete.dll
+C:\Code\StubStumpDel\StubStumpDelete\bin\Debug\NEPS.StubStumpDelete.pdb
+C:\Code\StubStumpDel\StubStumpDelete\obj\Debug\NEPS.StubStumpDelete.dll
+C:\Code\StubStumpDel\StubStumpDelete\obj\Debug\NEPS.StubStumpDelete.pdb

@@ -1,0 +1,19 @@
+Modification for DuctNest Placement 
+(24.02.2012 by Anna):
+ 1) changed feature state
+ 2) fit duct inside formation ( previously was one row or half row of ducts out)
+ 3) change way of centered Manhole Wall for placement from-to windows, previously not all the time was centered on correct wall
+ 
+ (22.03.2012 by Anna)
+ 4)Rename project to==== g3e_interface='NEPSDuctNestPlc:NEPS.GTechnology.NEPSDuctNestPlc.GTDuctnestPlacement' ====to follow neps standart
+ 4)MapWindows while placing Ductnest (From at the top, To at the bottom) and if it's not 2 manholes, for example manhole and civil, change MapWindow name to Civil Node
+ 5)If several Ductnest from 1 DuctPath, it should have numbers [1],[2] etc
+ 6)fixed Duct Way disappear if dont use default list of relating
+ 7)Validation, distance between manhole and ductnest (decided to make 5 m maximum)
+ 8)fixed ducts inside ductnest (placing twice, not correct)
+ 
+Zuki asked about Is it possible to place one Ductnest?
+buttons like 1x1, second click - corrupt application
+buttin add pair - sometimes also force xlosing of application with errors
+ 
+ All of them is marked with "AN_MOD" comment and short description of their purpose.

@@ -1,0 +1,1035 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Intergraph.GTechnology.Diagnostics</name>
+    </assembly>
+    <members>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagnostics">
+            <summary>Intergraph G/Technology GTDiagnostics Object.</summary>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.#ctor(Intergraph.GTechnology.Diagnostics.GTDiagSS,Intergraph.GTechnology.Diagnostics.GTDiagMaskWord,System.String)">
+            <summary>
+            Initializes a new instance of the GTDiagnostics class.
+            </summary>
+            <remarks>	
+            Only subsystems IDotNetCustomImp and IDotNetCustomCmd in 
+            Intergraph.GTechnology.Diagnostics.GTDiagSS enumerator are applicable 
+            for .NET custom implementations of the public .NET interfaces under 
+            namespace Intergraph.GTechnology.Interfaces.  Rest of subsystems are for internal use only.
+            </remarks>
+            <param name="SubSystem">Specifies the subsystem to test for when logging the message.</param>
+            <param name="MaskWord">Specifies the mask word to be retrieved from the registry.</param>
+            <param name="FileName">Specifies the source code file name that is logging the message.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.#ctor(Intergraph.GTechnology.Diagnostics.GTDiagSS,Intergraph.GTechnology.Diagnostics.GTDiagMaskWord,System.String,System.String)">
+            <summary>
+            Initializes a new instance of the GTDiagnostics class.
+            </summary>
+            <remarks>	
+            Only subsystems IDotNetCustomImp and IDotNetCustomCmd in 
+            Intergraph.GTechnology.Diagnostics.GTDiagSS enumerator are applicable 
+            for .NET custom implementations of the public .NET interfaces under 
+            namespace Intergraph.GTechnology.Interfaces.  Rest of subsystems are for internal use only.
+            </remarks>
+            <param name="SubSystem">Specifies the subsystem to test for when logging the message.</param>
+            <param name="MaskWord">Specifies the mask word to be retrieved from the registry.</param>
+            <param name="FileName">Specifies the source code file name that is logging the message.</param>
+            <param name="InstanceID">Specifies the class instance that is logging the message.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.UpdateMask">
+            <summary>
+            Reads diagnostics mask from the registry and recomputes cache while 
+            client is in use and the DiagnosticsManager changes the mask values.
+            </summary>
+            <remarks>	
+            While client is in use and the DiagnosticsManager changes the mask values 
+            the client cache will not have the changed mask values.  To get the changed 
+            mask values the client must be re-invoked or the user operation re-initiated 
+            to either call UpdateMask or re-create the GTDiagnostics object.  
+            Client should call UpdateMask infrequently, but they can call it more than once.
+            <para>
+            If an object has a relatively short life, there is generally no need to call 
+            UpdateMask.  Objects with a longer life, such as long-running commands, 
+            should choose appropriate places to call UpdateMask.  Some suggestions for 
+            places to call UpdateMask:
+            </para>
+            <para>•	In a command’s Activate method.</para>
+            <para>•	In the Click event handler of a command or other event-handling object.</para>
+            </remarks>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.IsLogging">
+            <summary>
+            Informs about current diagnostic logging state.
+            </summary>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.IsEnabled(Intergraph.GTechnology.Diagnostics.GTDiagCat)">
+            <summary>
+            Informs about a category's logging state.
+            </summary>
+            <remarks>	
+            The IsEnabled method must be called to test a category’s state before 
+            calling any log methods. 
+            </remarks>
+            <param name="Category">Specifies the category to test for when logging the message.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogEnter(System.String)">
+            <summary>
+            Logs entering to a procedure.  This message is logged as the 
+            Intergraph.GTechnology.Diagnostics.GTDiagCat.EE category.
+            </summary>
+            <remarks>
+            <para>A caller calls this method at the start of a procedure to log entering into a procedure.  
+            The caller must call LogExit when the procedure terminates (even if it terminates with an exception).
+            </para>
+            The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|Enter/exit|Entering
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogExit(System.String)">
+            <summary>
+            Logs exiting from a procedure.  This message is logged as the 
+            Intergraph.GTechnology.Diagnostics.GTDiagCat.EE category.
+            </summary>
+            <remarks>
+            <para>A caller calls this method at the end of a procedure to log exiting from a procedure.  
+            If LogEnter was called, then the caller must call LogExit when the procedure terminates (even if it terminates with an exception).
+            </para>
+            The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|Enter/exit|Exiting
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogValue(System.String,System.String,System.String,Intergraph.GTechnology.Private.IGTGeometryHelper,Intergraph.GTechnology.Diagnostics.GTDiagGeom)">
+            <summary>
+            Logs a variable value.
+            </summary>
+            <remarks>
+            A caller calls this method to log geometry value.
+            The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|&lt;CategoryDescription&gt;|&lt;Variable Name&gt;|&lt;Geometry Properties&gt;&lt;MBR Range&gt;{[&lt;X&gt;,&lt;Y&gt;]}
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="CategoryDescription">Specifies the category that is logging the message.  The Intergraph.GTechnology.Diagnostics.GTDCatDesc class defines constants for category descriptions.</param>
+            <param name="VariableName">Specifies the variable name.</param>
+            <param name="Value">Specifies value of the variable name.</param>
+            <param name="Option">Specifies the geometry option.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogValue(System.String,System.String,System.String,ADODB.Recordset,Intergraph.GTechnology.Diagnostics.GTDiagRS)">
+            <summary>
+            Logs a variable value.
+            </summary>
+            <remarks>
+            A caller calls this method to log recordset contents.
+            The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|&lt;CategoryDescription&gt;|&lt;Variable Name&gt;|&lt;FieldNames&gt;{[&lt;FieldValues&gt;]}
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="CategoryDescription">Specifies the category that is logging the message.  The Intergraph.GTechnology.Diagnostics.GTDCatDesc class defines constants for category descriptions.</param>
+            <param name="VariableName">Specifies the variable name.</param>
+            <param name="Value">Specifies value of the variable name.</param>
+            <param name="Option">Specifies the recordset option.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogValue(System.String,System.String,System.String,GTech.Interop.GDO.GRecordset,Intergraph.GTechnology.Diagnostics.GTDiagRS)">
+            <summary>
+            Logs a variable value.
+            </summary>
+            <remarks>
+            For internal use only.  A caller calls this method to log GDO recordset contents.
+            The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|&lt;CategoryDescription&gt;|&lt;Variable Name&gt;|&lt;FieldNames&gt;{[&lt;FieldValues&gt;]}
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="CategoryDescription">Specifies the category that is logging the message.  The Intergraph.GTechnology.Diagnostics.GTDCatDesc class defines constants for category descriptions.</param>
+            <param name="VariableName">Specifies the variable name.</param>
+            <param name="Value">Specifies value of the variable name.</param>
+            <param name="Option">Specifies the recordset option.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogValue(System.String,System.String,System.String,System.Object)">
+            <summary>
+            Logs a variable value.
+            </summary>
+            <remarks>
+            A caller calls this method to log variable value.  If the variable of types geometry or recordset then structure is logged.
+            The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|&lt;CategoryDescription&gt;|&lt;Variable Name&gt;|&lt;Value&gt;
+            </para>
+            <para>Where,</para>
+            <para>&lt;Value&gt; = (&lt;Text&gt;|&lt;GeometryStructure&gt;|&lt;RecordsetStructure&gt;)</para>
+            <para>&lt;Text&gt; logs Value.ToString().</para>
+            <para>&lt;GeometryStructure&gt; logs &lt;Geometry Properties&gt;&lt;MBR Range&gt;.</para>
+            <para>&lt;RecordsetStructure&gt;) logs &lt;FieldNames&gt;.</para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="CategoryDescription">Specifies the category that is logging the message.  The Intergraph.GTechnology.Diagnostics.GTDCatDesc class defines constants for category descriptions.</param>
+            <param name="VariableName">Specifies the variable name.</param>
+            <param name="Value">Specifies value of the variable name.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogMessage(System.String,System.String,System.String)">
+            <summary>
+            Logs input message.
+            </summary>
+            <remarks>
+            A caller calls this method for message logging. The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|&lt;CategoryDescription&gt;|&lt;Message&gt;
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="CategoryDescription">Specifies the category that is logging the message.  The Intergraph.GTechnology.Diagnostics.GTDCatDesc class defines constants for category descriptions.</param>
+            <param name="Message">Specifies the message to be logged by the caller program.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogStack(System.String)">
+            <summary>
+            Logs managed-code stack trace.  This message is logged as the Intergraph.GTechnology.Diagnostics.GTDiagCat.StackDmp category.
+            </summary>
+            <remarks>
+            A caller calls this method to log current managed-code stack trace. The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|StackDump|{[&lt;StackFrames&gt;]}
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogException(System.String,System.Exception)">
+            <summary>Logs exception information.  This message is logged as the Intergraph.GTechnology.Diagnostics.GTDiagCat.Err category.</summary>
+            <remarks>
+            A caller calls this method to log an exception. The message is logged in the following format:
+            <para>For managed exception:</para>
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|Error|&lt;ErrorDescription&gt; Number:0 Source:&lt;ErrorSource&gt;
+            </para>
+            <para>For COM exception:</para>
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|Error|COMException: &lt;ErrorDescription&gt; Number:&lt;ErrorNumber&gt; Source:&lt;ErrorSource&gt;
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="e">Specifies the System.Exception object.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogException(System.String,System.Exception,System.Boolean)">
+            <summary>Logs exception information.  This message is logged as the Intergraph.GTechnology.Diagnostics.GTDiagCat.Err category.</summary>
+            <remarks>
+            A caller calls this method to log an exception. When IncludeInnerException is true  the chain (outside-in) of exceptions  
+            (System.Exception.InnerException) are recursively logged as well.
+            The message is logged in the following format:
+            <para>For managed exception:</para>
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|Error|&lt;ErrorDescription&gt; Number:0 Source:&lt;ErrorSource&gt;
+            </para>
+            <para>For COM exception:</para>
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|Error|COMException: &lt;ErrorDescription&gt; Number:&lt;ErrorNumber&gt; Source:&lt;ErrorSource&gt;
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="e">Specifies the System.Exception object.</param>
+            <param name="IncludeInnerExceptions">Specifies to log inner exception message recursively.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogExceptionStack(System.String,System.Exception)">
+            <summary>Logs managed-code exception stack trace.  This message is logged as the Intergraph.GTechnology.Diagnostics.GTDiagCat.StackDmp category.
+            This method logs exception in the Intergraph.GTechnology.Diagnostics.GTDiagCat.Err category as well.</summary>
+            <remarks>
+            A caller calls this method to log current managed-code exception and exception stack trace. The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|StackDump|{[&lt;StackFrames&gt;]}
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="e">Specifies the System.Exception object.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogExceptionStack(System.String,System.Exception,System.Boolean)">
+            <summary>Logs managed-code exception stack trace.  This message is logged as the Intergraph.GTechnology.Diagnostics.GTDiagCat.StackDmp category.
+            This method logs exception in the Intergraph.GTechnology.Diagnostics.GTDiagCat.Err category as well.</summary>
+            <remarks>
+            A caller calls this method to log current managed-code exception and exception stack trace. 
+            When IncludeInnerException is true  the chain (outside-in) of exceptions  
+            (System.Exception.InnerException) are recursively logged as well.
+            The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|StackDump|{[&lt;StackFrames&gt;]}
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="e">Specifies the System.Exception object.</param>
+            <param name="IncludeInnerExceptions">Specifies to log inner exception message and stack trace recursively.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.LogStackRange(System.String,System.Int16,System.Int16)">
+            <summary>
+            Logs specified managed-code stack range.  This message is logged as the Intergraph.GTechnology.Diagnostics.GTDiagCat.StackDmp category.
+            </summary>
+            <remarks>
+            A caller calls this method to log managed-code stack range. The message is logged in the following format:
+            <para>
+            &lt;Date&gt;|&lt;Time&gt;|&lt;PID&gt;|&lt;TID&gt;|[&lt;InstanceID&gt;]|&lt;FileName&gt;|&lt;ProcedureName&gt;|&lt;SubsystemDescription&gt;|StackDump|{[&lt;StackFrames&gt;]}
+            </para>
+            </remarks>
+            <param name="ProcedureName">Specifies the procedure name that is logging the message.</param>
+            <param name="StartFrameNum">Specifies the start of managed-code stack range.</param>
+            <param name="NumFramesToLog">Specifies the number of managed-code stack frames to log.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.Pause">
+            <summary>Temporarily stops diagnostic logging.  No further diagnostics will be logged until Resume is called.  
+            No indication of the pause is logged.	Pause and Resume calls should always be paired, but the pairs can be nested.  
+            Diagnostics are suspended until the outermost Resume is called.</summary>
+            <remarks>For internal use only.</remarks>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.Resume">
+            <summary>Restarts temporarily stopped diagnostic logging.</summary>
+            <remarks>For internal use only.</remarks>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.UserPause">
+            <summary>Temporarily stops diagnostic logging.  The pause in diagnostics is logged, 
+            but no other diagnostics will be logged until UserResume is called.</summary>
+            <remarks>For internal use only.</remarks>
+        </member>
+        <member name="M:Intergraph.GTechnology.Diagnostics.GTDiagnostics.UserResume">
+            <summary>Restarts temporarily stopped diagnostic logging.  
+            The resumption is logged in the diagnostic log.	Note that, unlike Pause and Resume, 
+            UserPause and UserResume need not occur in pairs and should not be nested.  
+            UserResume resumes paused logging, regardless of how many times UserPause has been called.</summary>
+            <remarks>For internal use only.</remarks>
+        </member>
+        <member name="P:Intergraph.GTechnology.Diagnostics.GTDiagnostics.AppID">
+            <summary>
+            Specifies the G/Technology application ID.
+            </summary>
+            <remarks>
+            For internal use only. Default value is Intergraph.GTechnology.Diagnostics.GTDiagApps.Desktop.
+            </remarks>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal">
+            <summary>
+            Intergraph G/Technology Diagnostics Category Bit value Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.Err">
+            <summary>Diagnostics category bit value for error</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.EE">
+            <summary>Diagnostics category bit value for enter/exit</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.RetVal">
+            <summary>Diagnostics category bit value for return value</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.Args">
+            <summary>Diagnostics category bit value for arguments</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.SQL">
+            <summary>Diagnostics category bit value for sql</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.Perf">
+            <summary>Diagnostics category bit value for performance</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.LP1">
+            <summary>Diagnostics category bit value for pathway1</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.LP2">
+            <summary>Diagnostics category bit value for pathway2</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.IV1">
+            <summary>Diagnostics category bit value for intermediate value1</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.IV2">
+            <summary>Diagnostics category bit value for intermediate value2</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.MDAcc">
+            <summary>Diagnostics category bit value for metadata access</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.RecForPlayBack">
+            <summary>Diagnostics category bit value for record for playback</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.C1">
+            <summary>Diagnostics category bit value for custom1</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.C2">
+            <summary>Diagnostics category bit value for custom2</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.HeapUsg">
+            <summary>Diagnostics category bit value for heap allocation</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagnostics.GTDiagCatVal.StackDmp">
+            <summary>Diagnostics category bit value for stack dump</summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagApps">
+            <summary>
+            Intergraph G/Technology Diagnostics Application Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagApps.Desktop">
+            <summary>
+            G/Technology Desktop application
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagApps.NetViewer">
+            <summary>
+            G/Technology NetViewer application
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagApps.NetPlot">
+            <summary>
+            G/Technology NetPlot application
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagApps.NetExport">
+            <summary>
+            G/Technology NetExport application
+            </summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagCat">
+            <summary>
+            Intergraph G/Technology Diagnostics Category Bit Index Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.Err">
+            <summary>Diagnostics category bit index for error</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.EE">
+            <summary>Diagnostics category bit index for enter/exit</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.RetVal">
+            <summary>Diagnostics category bit index for return value</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.Args">
+            <summary>Diagnostics category bit index for arguments</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.SQL">
+            <summary>Diagnostics category bit index for sql</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.Perf">
+            <summary>Diagnostics category bit index for performance</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.LP1">
+            <summary>Diagnostics category bit index for pathway1</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.LP2">
+            <summary>Diagnostics category bit index for pathway2</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.IV1">
+            <summary>Diagnostics category bit index for intermediate value1</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.IV2">
+            <summary>Diagnostics category bit index for intermediate value2</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.MDAcc">
+            <summary>Diagnostics category bit index for metadata access</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.RecForPlayBack">
+            <summary>Diagnostics category bit index for record for playback</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.C1">
+            <summary>Diagnostics category bit index for custom1</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.C2">
+            <summary>Diagnostics category bit index for custom2</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.HeapUsg">
+            <summary>Diagnostics category bit index for heap allocation</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCat.StackDmp">
+            <summary>Diagnostics category bit index for stack dump</summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagCatActions">
+            <summary>
+            Intergraph G/Technology Diagnostics Category Action Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatActions.UnSel">
+            <summary>Diagnostics category action for unselecting a category</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatActions.Sel">
+            <summary>Diagnostics category action for selecting a category</summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc">
+            <summary>
+            Intergraph G/Technology Diagnostics Category Description Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.Err">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.EE">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.RetVal">
+            <summary>Diagnostics category description constant</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.Args">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.SQL">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.Perf">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.LP1">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.LP2">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.IV1">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.IV2">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.RecForPlayback">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.MDAcc">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.C1">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.C2">
+            <summary>Diagnostics category description constant</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.HeapUsg">
+            <summary>Diagnostics category description for heap usage</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagCatDesc.StackDmp">
+            <summary>Diagnostics category for log stack</summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagGeom">
+            <summary>
+            Intergraph G/Technology Diagnostics Geometry Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagGeom.Structure">
+            <summary>Diagnostics geometry option for geometry type and range</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagGeom.All">
+            <summary>Diagnostics geometry option for all geometry information</summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord">
+            <summary>
+            Intergraph G/Technology Diagnostics SubSystem Mask Word Number Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.Deltas">
+            <summary>Diagnostics Mask word number for Deltas</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.PlotServices">
+            <summary>Diagnostics Mask word number for Deltas</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.GDOG3EDeltas">
+            <summary>Diagnostics Mask word number for GDOG3E Deltas</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.DeltasServer">
+            <summary>Diagnostics Mask word number for Deltas Server</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdMgt">
+            <summary>Diagnostics Mask word number for Command Management</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.FeatExp">
+            <summary>Diagnostics Mask word number for Feature Explorer</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.Components">
+            <summary>Diagnostics Mask word number for Components</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdEditTool">
+            <summary>Diagnostics Mask word number for Edit Tool Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelDetail">
+            <summary>Diagnostics Mask word number for Detail Relationships</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelManyToMany">
+            <summary>Diagnostics Mask word number for Many to Many Relationships</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelOwnership">
+            <summary>Diagnostics Mask word number for Ownership Relationships</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelNodeEdge">
+            <summary>Diagnostics Mask word number for Node-Edge Relationships</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelNodeOrdered">
+            <summary>Diagnostics Mask word number for Node-Ordered Relationships</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SrvMergeFeat">
+            <summary>Diagnostics Mask word number for Merge Features Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.GenericBreak">
+            <summary>Diagnostics Mask word number for Generic Break Processing</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelGeneric">
+            <summary>Diagnostics Mask word number for Generic Relationship Processing</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelStationing">
+            <summary>Diagnostics Mask word number for Stationing Relationship Processing</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.RelDimensioning">
+            <summary>Diagnostics Mask word number for Dimensioning Relationship Processing</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SupVBA">
+            <summary>Diagnostics Mask word number for VBA Support Software</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdAdhocQuery">
+            <summary>Diagnostics Mask word number for Adhoc Query Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.PlotRedlines">
+            <summary>Diagnostics Mask word number for Plot Redlines</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.FeatAllocation">
+            <summary>Diagnostics Mask word number for Feature Allocation</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ReportComp">
+            <summary>Diagnostics Mask word number for Report Component</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.UtilGeneral">
+            <summary>Diagnostics Mask word number for General Utilities</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SrvAOI">
+            <summary>Diagnostics Mask word number for AOI Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdTrace">
+            <summary>Diagnostics Mask word number for the Trace Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SupPlacement">
+            <summary>Diagnostics Mask word number for Placement Support</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdNewJob">
+            <summary>Diagnostics Mask word number for New Job Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdJobEnv">
+            <summary>Diagnostics Mask word number for Job Environment Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdPostJob">
+            <summary>Diagnostics Mask word number for Post Job Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdEditJobProp">
+            <summary>Diagnostics Mask word number for Edit Job Properties Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdDiscardByFID">
+            <summary>Diagnostics Mask word number for Discard Edits By FID Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdCloseJob">
+            <summary>Diagnostics Mask word number for Close Job Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdPartialPost">
+            <summary>Diagnostics Mask word number for Partial Post Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.WMIObject">
+            <summary>Diagnostics Mask word number for Work Management Interface Object</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExeMassageMonitor">
+            <summary>Diagnostics Mask word number for Message Monitor Executable</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExeJobLifeCycle">
+            <summary>Diagnostics Mask word number for Job Life Cycle Executable</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExeLaunchGIS">
+            <summary>Diagnostics Mask word number for Launch GIS Executable</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdMetadataExp">
+            <summary>Diagnostics Mask word number for Metadata Explorer Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdDiscardJob">
+            <summary>Diagnostics Mask word number for Discard Job Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdSendToSTORMS">
+            <summary>Diagnostics Mask word number for Send to STORMS Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdSendToWMIS">
+            <summary>Diagnostics Mask word number for Send to WMIS Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdSendToWMS">
+            <summary>Diagnostics Mask word number for Send to WMS Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdFieldCostEst">
+            <summary>Diagnostics Mask word number for Field Cost Estimate Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.DataContext">
+            <summary>Diagnostics Mask word number for Data Context Component</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.DisplayRSMgt">
+            <summary>Diagnostics Mask word number for Display System Recordset Management Component</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.DisplayDraw">
+            <summary>Diagnostics Mask word number for Display System Drawing Component</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.EraseRaster">
+            <summary>Diagnostics Mask word number for Erase Raster Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SrvEditRaster">
+            <summary>Diagnostics Mask word number for Edit Raster Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdReregImg">
+            <summary>Diagnostics Mask word number for Re-Register Image Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExeUpdateFilePaths">
+            <summary>Diagnostics Mask word number for Update File Paths Executable</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdMergeFeats">
+            <summary>Diagnostics Mask word number for Merge Features Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.AppFramework">
+            <summary>Diagnostics Mask word number for Application Framework</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CtlMapView">
+            <summary>Diagnostics Mask word number for Map View OCX</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.UtilNormalizedStyle">
+            <summary>Diagnostics Mask word number for Normalized Style Utility</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SrvExportToPDF">
+            <summary>Diagnostics Mask word number for Export to PDF Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SrvWebTransfer">
+            <summary>Diagnostics Mask word number for Web Transfer Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdLMU">
+            <summary>Diagnostics Mask word number for Loop Makeup Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SrvMultiSection">
+            <summary>Diagnostics Mask word number for MultiSection Cable Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.OTDR">
+            <summary>Diagnostics Mask word number for OTDR Subsystem</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.TempGeom">
+            <summary>Diagnostics Mask word number for Temporary Geometry</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdAttachVector">
+            <summary>Diagnostics Mask word number for Attach vector Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CADDisplay">
+            <summary>Diagnostics Mask word number for CAD Display Subsystem</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.UserEvents">
+            <summary>Diagnostics Mask word number for User Events Subsystem</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CmdMoveRelated">
+            <summary>Diagnostics Mask word number for Move Related Command</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.Schematics">
+            <summary>Diagnostics Mask word number for Schematics</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.CtlDisplay">
+            <summary>Diagnostics Mask word number for the Display Control</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.PlotCommands">
+            <summary>Diagnostics Mask word number for Plotting Commands</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.GMConnection">
+            <summary>Diagnostics Mask word number for GMConnection</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.AMS">
+            <summary>Diagnostics Mask word number for Advanced Metadata Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.SupDotNet">
+            <summary>Diagnostics Mask word number for .NET customization support</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.IDotNetCustomImp">
+            <summary>Diagnostics Mask word number for .NET Custom Interface Implementation</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.IDotNetCustomCmd">
+            <summary>Diagnostics Mask word number for .NET Custom Command Interface</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.Analysis">
+            <summary>Diagnostics Mask word number for Network and Analysis Data Extraction Component</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.PublishSubset">
+            <summary>Diagnostics Mask word number for Publish Subset Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.PlotServer">
+            <summary>Diagnostics mask word number for G/NetPlot Plot Server</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.PlotWebService">
+            <summary>Diagnostics mask word number for G/NetPlot Web Service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExpAppServer">
+            <summary>Diagnostics mask word number for G/NetExport NT service</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExpAppService">
+            <summary>Diagnostics mask word number for G/NetExport application server</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExpAdmServer">
+            <summary>Diagnostics mask word number for G/NetExport admin server</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExpAutomation">
+            <summary>Diagnostics mask word number for G/NetExport automation object</summary> 
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagMaskWord.ExpBusinessObj">
+            <summary>Diagnostics mask word number for G/NetExport business object</summary> 
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagRS">
+            <summary>
+            Intergraph G/Technology Diagnostics Recordset Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagRS.Structure">
+            <summary>Diagnostics recordset option for field names</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagRS.Current">
+            <summary>Diagnostics recordset option for current record</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagRS.All">
+            <summary>Diagnostics recordset option for all records</summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Diagnostics.GTDiagSS">
+            <summary>
+            Intergraph G/Technology Diagnostics SubSystem Bit Field Constants.
+            </summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.Deltas">
+            <summary>Diagnostics subsystem bit for Deltas</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.GDOG3EDeltas">
+            <summary>Diagnostics subsystem bit for Desktop Deltas</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.DeltasServer">
+            <summary>Diagnostics subsystem bit for Deltas Server</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.PlotServices">
+            <summary>Diagnostics subsystem bit for Plotting Services</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdMgt">
+            <summary>Diagnostics subsystem bit for Command Management</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.FeatExp">
+            <summary>Diagnostics subsystem bit for Feature Explorer</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.Components">
+            <summary>Diagnostics subsystem bit for Components</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdEditTool">
+            <summary>Diagnostics subsystem bit for Edit Tool Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelDetail">
+            <summary>Diagnostics subsystem bit for Detail Relationships</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelManyToMany">
+            <summary>Diagnostics subsystem bit for Many to Many Relationships</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelOwnership">
+            <summary>Diagnostics subsystem bit for Ownership Relationships</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelNodeEdge">
+            <summary>Diagnostics subsystem bit for Node Edge Relationships</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelNodeOrdered">
+            <summary>Diagnostics subsystem bit for Node Ordered Relationships</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SrvMergeFeat">
+            <summary>Diagnostics subsystem bit for Merge Features Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.GenericBreak">
+            <summary>Diagnostics subsystem bit for Generic Break Processing</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelGeneric">
+            <summary>Diagnostics subsystem bit for Generic Relationship Processing</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelStationing">
+            <summary>Diagnostics subsystem bit for Stationing Relationship Processing</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.RelDimensioning">
+            <summary>Diagnostics subsystem bit for Dimensioning Relationship Processing</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SupVBA">
+            <summary>Diagnostics subsystem bit for VBA Support Software</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdAdhocQuery">
+            <summary>Diagnostics subsystem bit for Adhoc Query Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.PlotRedlines">
+            <summary>Diagnostics subsystem bit for Plot Redlines</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.FeatAllocation">
+            <summary>Diagnostics subsystem bit for Feature Allocation</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ReportComp">
+            <summary>Diagnostics subsystem bit for Report Component</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.UtilGeneral">
+            <summary>Diagnostics subsystem bit for General Utilities</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SrvAOI">
+            <summary>Diagnostics subsystem bit for Area of Interest Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdTrace">
+            <summary>Diagnostics subsystem bit for the Trace Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SupPlacement">
+            <summary>Diagnostics subsystem bit for Placement Support</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdNewJob">
+            <summary>Diagnostics subsystem bit for the New Job Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdJobEnv">
+            <summary>Diagnostics subsystem bit for the Job Enviroment Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdPostJob">
+            <summary>Diagnostics subsystem bit for the Post Job Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdEditJobProp">
+            <summary>Diagnostics subsystem bit for the Edit Job Properties Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdDiscardByFID">
+            <summary>Diagnostics subsystem bit for the Discard Edits By FID Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdCloseJob">
+            <summary>Diagnostics subsystem bit for the Close Job Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdPartialPost">
+            <summary>Diagnostics subsystem bit for the Partial Post Job Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.WMIObject">
+            <summary>Diagnostics subsystem bit for WMI</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExeMassageMonitor">
+            <summary>Diagnostics subsystem bit for Message Monitor exe</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExeJobLifeCycle">
+            <summary>Diagnostics subsystem bit for Job Life Cycle exe</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExeLaunchGIS">
+            <summary>Diagnostics subsystem bit for Launch GIS exe</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdMetadataExp">
+            <summary>Diagnostics subsystem bit for the Metadata Explorer Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdDiscardJob">
+            <summary>Diagnostics subsystem bit for the Discard Job Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdSendToSTORMS">
+            <summary>Diagnostics subsystem bit for the Send to Storms Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdSendToWMIS">
+            <summary>Diagnostics subsystem bit for the Send to WMIS Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdSendToWMS">
+            <summary>Diagnostics subsystem bit for the Send to WMS Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdFieldCostEst">
+            <summary>Diagnostics subsystem bit for the Field Cost Estimate Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.DataContext">
+            <summary>Diagnostics subsystem bit for Data Context</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.DisplayRSMgt">
+            <summary>Diagnostics subsystem bit for Display System Recordset Management</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.DisplayDraw">
+            <summary>Diagnostics subsystem bit for Display System Drawing</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdEraseRaster">
+            <summary>Diagnostics subsystem bit for Erase Raster Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SrvEditRaster">
+            <summary>Diagnostics subsystem bit for Edit Raster Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdReregImg">
+            <summary>Diagnostics subsystem bit for Re-Register Image Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExeUpdateFilePaths">
+            <summary>Diagnostics subsystem bit for Update File Paths Executable (Raster Edit)</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdMergeFeats">
+            <summary>Diagnostics subsystem bit for Merge Features Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.AppFramework">
+            <summary>Diagnostics subsystem bit for Application Framework</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CtlMapView">
+            <summary>Diagnostics subsystem bit for Map View Control</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.UtilNormalizedStyle">
+            <summary>Diagnostics subsystem bit for Normalized Style Creation Utility</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SrvExportToPDF">
+            <summary>Diagnostics subsystem bit for Export to PDF Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SrvWebTransfer">
+            <summary>Diagnostics subsystem bit for Web Transfer Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdLMU">
+            <summary>Diagnostics subsystem bit for Loop Makeup Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SrvMultiSection">
+            <summary>Diagnostics subsystem bit for Multi Section Cable Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.OTDR">
+            <summary>Diagnostics subsystem bit for OTDR</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.TempGeom">
+            <summary>Diagnostics subsystem bit for Temporary Geometry</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdAttachVector">
+            <summary>Diagnostics subsystem bit for Attach Vector Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CADDisplay">
+            <summary>Diagnostics subsystem bit for CAD Display</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CmdMoveRelated">
+            <summary>Diagnostics subsystem bit for Move Related Command</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.Schematics">
+            <summary>Diagnostics subsystem bit for Schematics</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.CtlDisplay">
+            <summary>Diagnostics subsystem bit for the Display Control</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.PlotCommands">
+            <summary>Diagnostics subsystem bit for Plotting Commands</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.UserEvents">
+            <summary>Diagnostics subsystem bit for User Events</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.GMConnection">
+            <summary>Diagnostics subsystem bit for the GMConnection</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.AMS">
+            <summary>Diagnostics subsystem bit for the Advanced Metadata Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.SupDotNet">
+            <summary>Diagnostics subsystem bit for .NET customization support software</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.IDotNetCustomImp">
+            <summary>Diagnostics subsystem bit for .NET custom interface Implementation</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.IDotNetCustomCmd">
+            <summary>Diagnostics subsystem bit for .NET custom command interface</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.Analysis">
+            <summary>Diagnostics subsystem bit for Network and Analysis Data Extraction Component</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.PublishSubset">
+            <summary>Diagnostics subsystem bit for Publish Subset Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.PlotServer">
+            <summary>Diagnostics subsystem bit for G/NetPlot Plot Server</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.PlotWebService">
+            <summary>Diagnostics subsystem bit for G/NetPlot Web Service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExpAppServer">
+            <summary>Diagnostics subsystem bit for G/NetExport application server</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExpAppService">
+            <summary>Diagnostics subsystem bit for G/NetExport NT service</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExpAdmServer">
+            <summary>Diagnostics subsystem bit for G/NetExport admin server</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExpAutomation">
+            <summary>Diagnostics subsystem bit for G/NetExport automation object</summary>
+        </member>
+        <member name="F:Intergraph.GTechnology.Diagnostics.GTDiagSS.ExpBusinessObj">
+            <summary>Diagnostics subsystem bit for G/NetExport business object</summary>
+        </member>
+    </members>
+</doc>

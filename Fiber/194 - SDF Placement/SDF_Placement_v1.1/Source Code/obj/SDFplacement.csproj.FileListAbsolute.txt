@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.GTechnology.SDFplacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.GTechnology.SDFplacement.SDF_Plc_Form.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\SDFplacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.SDFplacement.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.SDFplacement.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.SDFplacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.SDFplacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.1\Source Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.GTechnology.SDFplacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.GTechnology.SDFplacement.SDF_Plc_Form.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.1\Source Code\obj\Debug\SDFplacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.SDFplacement.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.SDFplacement.pdb
+C:\Documents and Settings\Administrator\Desktop\All SC\Atiqah\SDF_Placement_v1.1\Source Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\All SC\Atiqah\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.GTechnology.SDFplacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\All SC\Atiqah\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.GTechnology.SDFplacement.SDF_Plc_Form.resources
+C:\Documents and Settings\Administrator\Desktop\All SC\Atiqah\SDF_Placement_v1.1\Source Code\obj\Debug\SDFplacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\All SC\Atiqah\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.SDFplacement.dll
+C:\Documents and Settings\Administrator\Desktop\All SC\Atiqah\SDF_Placement_v1.1\Source Code\obj\Debug\NEPS.SDFplacement.pdb

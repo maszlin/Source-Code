@@ -1,0 +1,4 @@
+C:\Chidhu\Chidhu Codes\Define User Demand\obj\Debug\ResolveAssemblyReference.cache
+C:\Chidhu\Chidhu Codes\Define User Demand\obj\Debug\NEPS.GTechnology.User_Demand.GTWindowsForm_User_Demand.resources
+C:\Chidhu\Chidhu Codes\Define User Demand\obj\Debug\NEPS.GTechnology.User_Demand.Properties.Resources.resources
+C:\Chidhu\Chidhu Codes\Define User Demand\obj\Debug\User_Demand.csproj.GenerateResource.Cache

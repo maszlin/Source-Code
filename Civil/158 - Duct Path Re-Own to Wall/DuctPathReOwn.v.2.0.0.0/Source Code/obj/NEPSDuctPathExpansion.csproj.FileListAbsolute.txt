@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\Desktop\DuctPathExpansion.v.1.0.0.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DuctPathExpansion.v.1.0.0.0\obj\Debug\NEPS.GTechnology.NEPSDuctPathExpansion.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DuctPathExpansion.v.1.0.0.0\obj\Debug\NEPSDuctPathExpansion.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPSDuctPathExpansion.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPSDuctPathExpansion.pdb
+C:\Documents and Settings\Administrator\Desktop\DuctPathExpansion.v.1.0.0.0\obj\Debug\NEPSDuctPathExpansion.dll
+C:\Documents and Settings\Administrator\Desktop\DuctPathExpansion.v.1.0.0.0\obj\Debug\NEPSDuctPathExpansion.pdb
+C:\Documents and Settings\Administrator\Desktop\DuctPathExpansion.v.1.0.0.0\obj\Debug\NEPS.GTechnology.NEPSDuctPathExpansion.DPExpansionForm.resources

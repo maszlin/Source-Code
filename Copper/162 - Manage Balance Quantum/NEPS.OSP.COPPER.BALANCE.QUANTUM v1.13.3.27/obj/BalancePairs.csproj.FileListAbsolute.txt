@@ -1,0 +1,8 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.BALANCE.PAIRS.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.BALANCE.PAIRS.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.PAIRS\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.PAIRS\obj\Debug\NEPS.OSP.COPPER.BALANCE.PAIRS.frmBalancePairs.resources
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.PAIRS\obj\Debug\NEPS.OSP.COPPER.BALANCE.PAIRS.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.PAIRS\obj\Debug\BalancePairs.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.PAIRS\obj\Debug\NEPS.OSP.COPPER.BALANCE.PAIRS.dll
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.PAIRS\obj\Debug\NEPS.OSP.COPPER.BALANCE.PAIRS.pdb

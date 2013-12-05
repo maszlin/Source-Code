@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\Desktop\GetAddress\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS_ZoomByFID.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS_ZoomByFID.pdb
+C:\Program Files\Intergraph\GTechnology\Program\Get_AddressPoint.XML
+C:\Documents and Settings\Administrator\Desktop\GetAddress\obj\Debug\NEPS_ZoomByFID.dll
+C:\Documents and Settings\Administrator\Desktop\GetAddress\obj\Debug\NEPS_ZoomByFID.pdb
+C:\Chidhu\Chidhu Codes\ZoomByFID\obj\Debug\ResolveAssemblyReference.cache
+C:\Chidhu\Chidhu Codes\ZoomByFID\obj\Debug\NEPS_ZoomByFID.dll
+C:\Chidhu\Chidhu Codes\ZoomByFID\obj\Debug\NEPS_ZoomByFID.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Property_Count">
+</Property><Property Name="Solution File" Value="C:\Chidhu\Chidhu Codes\Property Count\Property_Count.sln">
+</Property><Property Name="User Options File" Value="C:\Chidhu\Chidhu Codes\Property Count\Property_Count.suo">
+</Property><Property Name="Date" Value="Saturday, October 01, 2011">
+</Property><Property Name="Time" Value="10:56 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Property_Count.sln" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Property_Count.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Property_Count.suo" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Property_Count.suo">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Property_Count.csproj" Description="Project file successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Property_Count.csproj">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Property_Count.csproj.user" Description="Project user file successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Property_Count.csproj.user">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="cboItem.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\cboItem.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="GTCustomCommandModeless.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\GTCustomCommandModeless.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="PropertyCount.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\PropertyCount.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Property_CountForm.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Property_CountForm.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Property_CountForm.Designer.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Property_CountForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Logger.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Logger.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Property_CountForm.resx" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Property_CountForm.resx">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Chidhu\Chidhu Codes\Property Count\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Property_Count.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Property_Count" Source="Property_Count.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Property_Count.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Property_Count.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Property_Count" Source="Property_Count.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

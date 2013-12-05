@@ -1,0 +1,26 @@
+C:\Documents and Settings\Administrator\Desktop\Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Sample\obj\Debug\CTA.GTechnology.Test.GTWindowsForm_Test.resources
+C:\Documents and Settings\Administrator\Desktop\Sample\obj\Debug\CTA.GTechnology.Sample.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Sample\obj\Debug\CTA.GTechnology.Sample.dll
+C:\Documents and Settings\Administrator\Desktop\Sample\obj\Debug\CTA.GTechnology.Sample.pdb
+C:\Source Code\SampleCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Source Code\SampleCode\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Source Code\SampleCode\obj\Debug\NEPS.GTechnology.Sample.GTWindowsForm_Test.resources
+C:\Source Code\SampleCode\obj\Debug\NEPS.GTechnology.Sample.Properties.Resources.resources
+C:\Source Code\SampleCode\obj\Debug\Sample.dll
+C:\Source Code\SampleCode\obj\Debug\Sample.pdb
+C:\Source Code\Training\SampleCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Source Code\Training\SampleCode\obj\Debug\NEPS.GTechnology.Sample.GTWindowsForm_Test.resources
+C:\Source Code\Training\SampleCode\obj\Debug\NEPS.GTechnology.Sample.Properties.Resources.resources
+C:\Source Code\Training\SampleCode\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Source Code\Training\SampleCode\obj\Debug\Sample.dll
+C:\Source Code\Training\SampleCode\obj\Debug\Sample.pdb
+C:\Program Files\Intergraph\GTechnology\Program\Sample.dll
+C:\Program Files\Intergraph\GTechnology\Program\Sample.pdb
+C:\Source Code\Training\Copy of SampleCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Source Code\Training\Copy of SampleCode\obj\Debug\NEPS.GTechnology.Sample.GTWindowsForm_Test.resources
+C:\Source Code\Training\Copy of SampleCode\obj\Debug\NEPS.GTechnology.Sample.Properties.Resources.resources
+C:\Source Code\Training\Copy of SampleCode\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Source Code\Training\Copy of SampleCode\obj\Debug\Sample.dll
+C:\Source Code\Training\Copy of SampleCode\obj\Debug\Sample.pdb

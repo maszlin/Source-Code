@@ -1,0 +1,12 @@
+D:\Updated Codes\Update OLTID from FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Updated Codes\Update OLTID from FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\NEPS.GTechnology.UpdateFDC.GTWindowsForm_UpdateFDC.resources
+D:\Updated Codes\Update OLTID from FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\NEPS.GTechnology.PlaceFDP.Properties.Resources.resources
+D:\Updated Codes\Update OLTID from FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\UpdateFDC.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.UpdateFDC.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.UpdateFDC.pdb
+D:\Updated Codes\Update OLTID for FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Updated Codes\Update OLTID for FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\NEPS.GTechnology.UpdateFDC.GTWindowsForm_UpdateFDC.resources
+D:\Updated Codes\Update OLTID for FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\NEPS.GTechnology.UpdateFDC.Properties.Resources.resources
+D:\Updated Codes\Update OLTID for FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\UpdateFDC.csproj.GenerateResource.Cache
+D:\Updated Codes\Update OLTID for FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\NEPS.UpdateFDC.dll
+D:\Updated Codes\Update OLTID for FDC v1.0\UpdateFDC v1.0\Update FDC v1.0\obj\Debug\NEPS.UpdateFDC.pdb

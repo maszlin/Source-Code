@@ -1,0 +1,8 @@
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP\obj\Debug\NEPS.GTechnology.PlaceFDP.GTWindowsForm_PlaceFDP.resources
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP\obj\Debug\NEPS.GTechnology.PlaceFDP.Properties.Resources.resources
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP\obj\Debug\PlaceFDP.csproj.GenerateResource.Cache
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP v1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP v1.0\obj\Debug\NEPS.GTechnology.PlaceFDP.GTWindowsForm_PlaceFDP.resources
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP v1.0\obj\Debug\NEPS.GTechnology.PlaceFDP.Properties.Resources.resources
+D:\Source Code\Place FDP v1.0\Source Code\Place FDP v1.0\obj\Debug\PlaceFDP.csproj.GenerateResource.Cache

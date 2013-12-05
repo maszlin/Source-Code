@@ -1,0 +1,32 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.COPY.DP.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.COPY.DP.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.COPYDP\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.COPYDP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.frmCopyDP.resources
+G:\new_code\developt\NEPS.OSP.COPPER.COPYDP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.COPYDP\obj\Debug\CopyDP.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.COPYDP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.dll
+G:\new_code\developt\NEPS.OSP.COPPER.COPYDP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.pdb
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\Copy DP\NEPS.OSP.COPPER.COPY.DP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\Copy DP\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.frmCopyDP.resources
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\Copy DP\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\Copy DP\NEPS.OSP.COPPER.COPY.DP\obj\Debug\CopyDP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\Copy DP\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.dll
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\Copy DP\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.frmCopyDP.resources
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP\obj\Debug\CopyDP.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.dll
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP\obj\Debug\NEPS.OSP.COPPER.COPY.DP.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.frmCopyDP.resources
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\CopyDP.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.dll
+G:\new_code\developt\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Copy DP\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Copy DP\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.frmCopyDP.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Copy DP\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Copy DP\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\CopyDP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Copy DP\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Copy DP\NEPS.OSP.COPPER.COPY.DP.v2\obj\Debug\NEPS.OSP.COPPER.COPY.DP.pdb

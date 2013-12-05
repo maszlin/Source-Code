@@ -1,0 +1,119 @@
+//"SELECT B.G3E_FID, B.G3E_FNO, C.IN_FID, C.IN_FNO, C.OUT_FID, C.OUT_FNO " +
+            //"FROM TRACEID A, TRACERESULT B, GC_NR_CONNECT C WHERE A.G3E_ID = B.G3E_TNO AND B.G3E_FID = C.G3E_FID AND A.G3E_NAME = '" + traceRslt + "' ";
+
+
+//s_ExcAbb = sRS.Fields[0].Value.ToString();
+                                        //s_ItfaceCode = sRS.Fields[1].Value.ToString();
+                                        //s_CableClass = sRS.Fields[2].Value.ToString();
+                                        //s_curCableCode = sRS.Fields[3].Value.ToString();
+                                        //currCableCodeTb.Text = s_curCableCode.ToString();
+										
+			//int srcFID = int.Parse(sourceFID);
+            //updateESIdeCableCodeTemplate("GC_PDDP", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_DDP", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_CONTGAUGE", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_CONTALARM", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_GASSEAL", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_TESTPNT", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_TRNSDCR", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_CBL", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_ITFACE", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_LDCOIL", s_ExcAbb, s_curCableCode);
+            //updateESIdeCableCodeTemplate("GC_SPLICE", s_ExcAbb, s_curCableCode);
+			
+			                //"UPDATE " + tableName + " SET CABLE_CODE = '" + newCableCodeTb.Text + "' " +
+                //"WHERE CABLE_CODE = '" + sel_CableCode + "' AND G3E_FID IN " +
+                //    "(SELECT A.G3E_FID FROM GC_NETELEM A, " + tableName + " B " +
+                //    "WHERE " +
+                //        "A.G3E_FID = " + sel_FID + " AND " +
+                //        "A.EXC_ABB = '" + sel_excAbb + "' AND " +
+                //        "B.CABLE_CODE = '" + sel_CableCode + "' )";
+				
+				                //else
+                //{
+                //    if (s_CableClass.IndexOf("D-") != 1)
+                //    {
+                //        changeCableCodeOnClick_DSide(s_FID);
+                //        resetButtonsAndTextBox();
+                //    }
+                //}
+				
+				if (oDDCKeyObject.FNO == 7000 &&
+                            (oDDCKeyObject.Recordset.Fields["G3E_CNO"].Value.ToString().IndexOf("701") != 1))
+                        {
+                            if (oDDCKeyObject.Recordset.Fields["CABLE_CLASS"].Value.ToString().IndexOf("E-") != 1)
+                            {
+                                //Message Box is to be deleted
+                                MessageBox.Show("Cable E-Side is selected.", "Manage Cable Code", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                s_FID = oDDCKeyObject.FID;
+                                getSelectedSQL = "SELECT A.EXC_ABB, B.ITFACE_CODE, B.CABLE_CLASS, B.CABLE_CODE " +
+                                                 "FROM GC_NETELEM A, GC_CBL B " +
+                                                 "WHERE A.G3E_FID = B.G3E_FID AND A.G3E_FID = " + s_FID;
+                                sRS = GTClassFactory.Create<IGTApplication>().DataContext.OpenRecordset(getSelectedSQL, ADODB.CursorTypeEnum.adOpenStatic, ADODB.LockTypeEnum.adLockReadOnly, 1);
+                                if (sRS.RecordCount > 0)
+                                {
+                                    sRS.MoveFirst();
+                                    assignValues(sRS.Fields[0].Value.ToString(), "", sRS.Fields[2].Value.ToString(), sRS.Fields[3].Value.ToString());
+                                    valid = true;
+                                }
+
+                                getSelectedSQL = "";
+                                sRS = null;
+
+                                break;
+                            }
+                            else
+                            {
+                                if (oDDCKeyObject.Recordset.Fields["CABLE_CLASS"].Value.ToString().IndexOf("D-") != 1)
+                                {
+                                    //Message Box is to be deleted
+                                    MessageBox.Show("Cable D-Side is selected.", "Manage Cable Code", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                                    s_FID = oDDCKeyObject.FID;
+                                    getSelectedSQL = "SELECT A.EXC_ABB, B.ITFACE_CODE, B.CABLE_CLASS, B.CABLE_CODE " +
+                                                     "FROM GC_NETELEM A, GC_CBL B " +
+                                                     "WHERE A.G3E_FID = B.G3E_FID AND A.G3E_FID = " + s_FID;
+                                    sRS = GTClassFactory.Create<IGTApplication>().DataContext.OpenRecordset(getSelectedSQL, ADODB.CursorTypeEnum.adOpenStatic, ADODB.LockTypeEnum.adLockReadOnly, 1);
+                                    if (sRS.RecordCount > 0)
+                                    {
+                                        sRS.MoveFirst();
+                                        assignValues(sRS.Fields[0].Value.ToString(), sRS.Fields[1].Value.ToString(), sRS.Fields[2].Value.ToString(), sRS.Fields[3].Value.ToString());
+                                        valid = true;
+                                    }
+                                    getSelectedSQL = "";
+                                    sRS = null;
+                                   
+                                    break;
+                                }
+                            }
+                        }
+                        else
+                        {
+                            MessageBox.Show("Selected feature is not E-Side or D-Side Cable. Please select ONLY E-Side or D-Side Cable", "Manage Cable Code", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            break;
+                        }
+						
+						
+            //if (sel_ItCd == "") // for E-Side
+            //{
+            //    chgSQL =
+            //    "UPDATE " + tableName + " SET CABLE_CODE = '" + newCableCodeTb.Text + "' " +
+            //    "WHERE CABLE_CODE = '" + sel_CableCode + "' AND G3E_FID IN " +
+            //        "(SELECT A.G3E_FID FROM GC_NETELEM A, " + tableName + " B " +
+            //        "WHERE " +
+            //            "A.G3E_FID = " + sel_FID + " AND " +
+            //            "A.EXC_ABB = '" + sel_excAbb + "' AND " +
+            //            "B.CABLE_CODE = '" + sel_CableCode + "' )";
+            //}
+            //else //for D-Side
+            //{
+            //    chgSQL =
+            //    "UPDATE " + tableName + " SET CABLE_CODE = '" + newCableCodeTb.Text + "' " +
+            //    "WHERE CABLE_CODE = '" + sel_CableCode + "' AND G3E_FID IN " +
+            //        "(SELECT A.G3E_FID FROM GC_NETELEM A, " + tableName + " B " +
+            //        "WHERE " +
+            //            "A.G3E_FID = " + sel_FID + " AND " +
+            //            "A.EXC_ABB = '" + sel_excAbb + "' AND " +
+            //            "B.ITFACE_CODE = '" + sel_ItCd + "' AND " +
+            //            "B.CABLE_CODE = '" + sel_CableCode + "' )";
+            //}

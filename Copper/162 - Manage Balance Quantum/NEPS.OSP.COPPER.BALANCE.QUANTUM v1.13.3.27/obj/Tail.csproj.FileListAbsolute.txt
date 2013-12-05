@@ -1,0 +1,8 @@
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.TAIL.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.TAIL.pdb
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources

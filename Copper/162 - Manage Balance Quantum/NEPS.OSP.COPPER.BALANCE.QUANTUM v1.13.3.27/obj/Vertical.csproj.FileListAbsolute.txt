@@ -1,0 +1,8 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.Copper.Vertical.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.Copper.Vertical.pdb
+G:\developt\NEPS.CSTM.CMD.COPPER.VERTICAL\obj\Debug\ResolveAssemblyReference.cache
+G:\developt\NEPS.CSTM.CMD.COPPER.VERTICAL\obj\Debug\NEPS.Copper.Vertical.frmVertical.resources
+G:\developt\NEPS.CSTM.CMD.COPPER.VERTICAL\obj\Debug\NEPS.Copper.Vertival.Properties.Resources.resources
+G:\developt\NEPS.CSTM.CMD.COPPER.VERTICAL\obj\Debug\Vertical.csproj.GenerateResource.Cache
+G:\developt\NEPS.CSTM.CMD.COPPER.VERTICAL\obj\Debug\NEPS.Copper.Vertical.dll
+G:\developt\NEPS.CSTM.CMD.COPPER.VERTICAL\obj\Debug\NEPS.Copper.Vertical.pdb

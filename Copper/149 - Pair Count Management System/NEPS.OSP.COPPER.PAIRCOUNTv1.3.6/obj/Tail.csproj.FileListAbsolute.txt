@@ -1,0 +1,26 @@
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.TAIL.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.TAIL.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb

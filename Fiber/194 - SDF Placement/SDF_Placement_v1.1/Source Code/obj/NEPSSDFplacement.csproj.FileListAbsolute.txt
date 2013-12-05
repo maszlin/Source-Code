@@ -1,0 +1,8 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.SDFplacement.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.SDFplacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.GTechnology.SDFplacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.GTechnology.SDFplacement.SDF_Plc_Form.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPSSDFplacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.SDFplacement.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\SDF_Placement_v1.0\obj\Debug\NEPS.SDFplacement.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\Desktop\Migration\NEPS.BulkMoveFeatures\NEPS.BulkMoveFeatures\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.BulkMoveFeatures.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.BulkMoveFeatures.pdb
+C:\Documents and Settings\Administrator\Desktop\Migration\NEPS.BulkMoveFeatures\NEPS.BulkMoveFeatures\obj\Debug\NEPS.BulkMoveFeatures.dll
+C:\Documents and Settings\Administrator\Desktop\Migration\NEPS.BulkMoveFeatures\NEPS.BulkMoveFeatures\obj\Debug\NEPS.BulkMoveFeatures.pdb
+C:\Documents and Settings\Administrator\Desktop\Migration\BulkMoveFeatures\NEPS.BulkMoveFeatures\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Migration\BulkMoveFeatures\NEPS.BulkMoveFeatures\obj\Debug\NEPS.BulkMoveFeatures.dll
+C:\Documents and Settings\Administrator\Desktop\Migration\BulkMoveFeatures\NEPS.BulkMoveFeatures\obj\Debug\NEPS.BulkMoveFeatures.pdb

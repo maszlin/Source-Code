@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GET_ADDR">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Administrator\Desktop\GetAddress\GET_ADDR.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Administrator\Desktop\GetAddress\GET_ADDR.suo">
+</Property><Property Name="Date" Value="Friday, November 25, 2011">
+</Property><Property Name="Time" Value="17:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GET_ADDR.sln" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\GET_ADDR.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GET_ADDR.suo" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\GET_ADDR.suo">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="CTA_DotNet.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\CTA_DotNet.csproj">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="CTA_DotNet.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\CTA_DotNet.csproj.user">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="GTCustomCommandModeless.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\GTCustomCommandModeless.cs">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\GetAddress\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="CTA_DotNet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CTA_DotNet" Source="CTA_DotNet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GET_ADDR.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GET_ADDR.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CTA_DotNet" Source="CTA_DotNet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,32 @@
+G:\new_code\developt\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.frmServiceAssign.resources
+G:\new_code\developt\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\ServiceAssign.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.SERVICE.ASSIGN.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.SERVICE.ASSIGN.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.dll
+G:\new_code\developt\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.frmServiceAssign.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\ServiceAssign.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.pdb
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.SERVICE\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.SERVICE\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.frmServiceAssign.resources
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.SERVICE\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.SERVICE\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\ServiceAssign.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.SERVICE\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.dll
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.SERVICE\NEPS.OSP.COPPER.SERVICE.ASSIGN\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.pdb
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.3.9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.3.9\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.frmServiceAssign.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.3.9\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.3.9\obj\Debug\ServiceAssign.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.3.9\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.dll
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.3.9\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.pdb
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.4\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.frmServiceAssign.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.4\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.4\obj\Debug\ServiceAssign.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.4\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.dll
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.SERVICE.ASSIGN v1.4\obj\Debug\NEPS.OSP.COPPER.SERVICE.ASSIGN.pdb

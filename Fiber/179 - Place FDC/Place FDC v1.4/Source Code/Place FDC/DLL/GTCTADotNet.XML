@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTCTADotNet</name>
+    </assembly>
+    <members>
+        <member name="F:Intergraph.GTechnology.Init_Route.GTWindowsForm_InitRoute.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Intergraph.GTechnology.Init_Route.GTWindowsForm_InitRoute.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Intergraph.GTechnology.Init_Route.GTWindowsForm_InitRoute.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Intergraph.GTechnology.Init_Route.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Intergraph.GTechnology.Init_Route.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Intergraph.GTechnology.Init_Route.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="F:Intergraph.Common.GisLib.m_GeoApp">
+            <summary>
+            g3e application
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.LocateFeature(System.Int32[0:,0:],System.Boolean,System.Boolean,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetFID(System.Int32[0:,0:]@)">
+            <summary>
+            FID
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.DisplayLine(Intergraph.GTechnology.API.GTPoints)">
+            <summary>
+            p_Points
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetConnString(System.String@,System.String@,System.String@)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetPointByAngle(Intergraph.GTechnology.API.GTPoint,Intergraph.GTechnology.API.GTPoint,System.Double)">
+            <summary>
+            p_distance
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.CallCommand(System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.MeasureFeature(System.Int16,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.adoQuery(System.String)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.CalcLength(Intergraph.GTechnology.API.GTPoint,Intergraph.GTechnology.API.GTPoint)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetFeaName(System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.FilterLegend(System.String,System.String)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.ClearFilterLegend">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetLegendEntries(System.String)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.adoExecute(System.Collections.ArrayList,Intergraph.GTechnology.API.GTTransactionManager)">
+            <summary>
+            adodb.recordset
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.adoExecuteWithOutUndo(System.Collections.ArrayList)">
+            <summary>
+            </summary>	
+        </member>
+        <member name="M:Intergraph.Common.GisLib.adoQueryToDataSet(System.String,System.Data.DataSet@)">
+            <summary>
+            dataset
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetPicklistFromANO(System.Int32)">
+            <summary>
+            PICKLIST
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.TraceFeature(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Data.DataSet@)">
+            <summary>
+            DataSet
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.TraceFeature(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,ADODB.Recordset@)">
+            <summary>
+            ADO.Recordset
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetFeaPoints(System.Int32,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.DisplayPoint(Intergraph.GTechnology.API.GTPoint,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.DisplayPoint(System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            fontname,size,index
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetRGBColor(System.Drawing.Color)">
+            <summary>
+            ´Color RGB
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetGeometry(System.Int32,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.NearByPoint(Intergraph.GTechnology.API.GTPoint,System.Int32,System.Int32,System.Double)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.ClearSelected">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.ZoomArea(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            ZommArea
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.PrefGetValue(Intergraph.GTechnology.API.GTPreferenceConstants)">
+             <summary>
+            preference value
+             </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.ClearGeometry">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.SpatialQuery(Intergraph.GTechnology.API.GTGeometry,System.Int16[],Intergraph.GTechnology.API.GTSpatialOperatorConstants)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GenerateCircle(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            geometry
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetFirstPointOfGeometry(System.Int32,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetEndPointOfGeometry(System.Int32,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.LocateComponent(System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetUserInfo(System.String@,System.String@,System.String@)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.OpenDetailMapWindow(System.Int32,System.String)">
+            <summary>
+            legendname,DETAILID
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetActivteLegendName">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetGeometry(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            ´ÓFNO,FID,CID
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetFeaPointsByCID(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.DiplayText(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Double,System.Double,System.String)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetFeaPoints(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetGeometryRange(Intergraph.GTechnology.API.GTGeometry,Intergraph.GTechnology.API.GTPoint@,Intergraph.GTechnology.API.GTPoint@)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.RefreshDatabase">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.LocateByXY(System.Double,System.Double,System.Double)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetRotateAngle(Intergraph.GTechnology.API.GTVector)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.AddQuery(ADODB.Recordset,System.String)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.DeleteQuery">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetStyleID(System.String)">
+             <summary>
+            STYLE ID
+             </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.GetMetadataRecordset(System.String,System.String)">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Intergraph.Common.GisLib.ConvertRSToDataSet(ADODB.Recordset)">
+            <summary>
+            ADO Recordset DataSet
+            </summary>
+        </member>
+        <member name="P:Intergraph.Common.GisLib.GeoApp">
+            <summary>
+            GeoApp
+            </summary>
+        </member>
+        <member name="T:Intergraph.Common.JobMgt">
+            <summary>
+            JobMgt
+            </summary>
+        </member>
+    </members>
+</doc>

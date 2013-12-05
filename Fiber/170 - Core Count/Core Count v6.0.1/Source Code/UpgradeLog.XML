@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CoreCount">
+</Property><Property Name="Solution File" Value="C:\dotnet_CSharp\Core Count v5.1\Core Count\CoreCount.sln">
+</Property><Property Name="User Options File" Value="C:\dotnet_CSharp\Core Count v5.1\Core Count\CoreCount.suo">
+</Property><Property Name="Date" Value="Friday, September 28, 2012">
+</Property><Property Name="Time" Value="18:29 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CoreCount.sln" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\CoreCount.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CoreCount.suo" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\CoreCount.suo">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="CoreCount.csproj" Description="Project file successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\CoreCount.csproj">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="CoreCount.csproj.user" Description="Project user file successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\CoreCount.csproj.user">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="cboItem.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\cboItem.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="GTCustomCommandModeless.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\GTCustomCommandModeless.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Logger.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Logger.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="CoreCount.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\CoreCount.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="CoreCount.Designer.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\CoreCount.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Properties\Settings.settings" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\BMP_Cable.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\BMP_Cable.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\CommentIcon.gif" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\CommentIcon.gif">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\delete.gif" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\delete.gif">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\edit.gif" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\edit.gif">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\Port-In.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\Port-In.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\Port-Out.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\Port-Out.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\Port.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\Port.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\Ports-In.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\Ports-In.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\Ports-Out.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\Ports-Out.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\properties.gif" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\properties.gif">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\search.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\search.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\search.gif" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\search.gif">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\tickmark.gif" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\tickmark.gif">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Image\TOOLBOX_Splice.bmp" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Image\TOOLBOX_Splice.bmp">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="CoreCount.resx" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\CoreCount.resx">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="Properties\Resources.resx" Description="File successfully backed up as C:\dotnet_CSharp\Core Count v5.1\Core Count\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="CoreCount.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CoreCount" Source="CoreCount.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CoreCount.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CoreCount.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CoreCount" Source="CoreCount.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

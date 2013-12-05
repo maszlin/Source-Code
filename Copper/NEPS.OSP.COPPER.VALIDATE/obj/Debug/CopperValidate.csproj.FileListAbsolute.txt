@@ -1,0 +1,7 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.VALIDATE.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.VALIDATE.pdb
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Debug\ResolveAssemblyReference.cache
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Debug\NEPS.OSP.COPPER.VALIDATE.frmJointAttribute.resources
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Debug\CopperValidate.csproj.GenerateResource.Cache
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Debug\NEPS.OSP.COPPER.VALIDATE.dll
+C:\dotnet_CSharp\NEPS.OSP.COPPER.VALIDATE\obj\Debug\NEPS.OSP.COPPER.VALIDATE.pdb

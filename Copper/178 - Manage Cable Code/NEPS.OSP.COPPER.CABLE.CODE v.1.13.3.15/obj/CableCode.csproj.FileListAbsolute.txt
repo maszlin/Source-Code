@@ -1,0 +1,32 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE.CODE.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE.CODE.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.frmCableCode.resources
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\CableCode.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.dll
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.pdb
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.frmCableCode.resources
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\CableCode.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.dll
+C:\Documents and Settings\Administrator\My Documents\All Tasks + Ref\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.pdb
+C:\Documents and Settings\Administrator\My Documents\Temporary\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Temporary\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.frmCableCode.resources
+C:\Documents and Settings\Administrator\My Documents\Temporary\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Temporary\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\CableCode.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Temporary\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.dll
+C:\Documents and Settings\Administrator\My Documents\Temporary\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.pdb
+C:\Documents and Settings\Administrator\My Documents\Temporary2\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Temporary2\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.frmCableCode.resources
+C:\Documents and Settings\Administrator\My Documents\Temporary2\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Temporary2\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\CableCode.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Temporary2\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.dll
+C:\Documents and Settings\Administrator\My Documents\Temporary2\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.frmCableCode.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\CableCode.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.pdb

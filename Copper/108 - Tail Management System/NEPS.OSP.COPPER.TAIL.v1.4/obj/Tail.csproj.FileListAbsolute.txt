@@ -1,0 +1,66 @@
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\do\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\do_developt\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.TAIL.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.TAIL.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v2\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v2\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v2\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v2\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v2\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v2\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v3\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v3\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v3\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v3\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v3\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v3\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\Tail.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+G:\new_code\developt\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Tail Management\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Tail Management\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Tail Management\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Tail Management\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\Tail.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Tail Management\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Tail Management\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\Tail.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Release\NEPS.OSP.COPPER.TAIL.frmTail.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Release\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.TAIL.v4\obj\Release\Tail.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.frmTail.resources
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\Tail.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.dll
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.TAIL.v4\obj\Debug\NEPS.OSP.COPPER.TAIL.pdb

@@ -1,0 +1,38 @@
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.WallNumberPlacement.csproj.ResolveComReference.cache
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.GTechnology.WallNumberPlacement.Properties.Resources.resources
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.WallNumberPlacement.csproj.GenerateResource.Cache
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.GTechnology.WallNumberPlacement.Forms.ManholeForm.resources
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.GTechnology.WallNumberPlacement.ManholeCtrl.resources
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\WallNumberPlacement.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\WallNumberPlacement.pdb
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\WallNumberPlacement.dll
+C:\Code\WallNumberPlc\WallNumberPlacement\obj\Debug\WallNumberPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.WallNumberPlacement.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.GTechnology.WallNumberPlacement.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.GTechnology.WallNumberPlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\obj\Debug\AG.WallNumberPlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\obj\Debug\WallNumberPlacement.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\obj\Debug\WallNumberPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\WallNumberPlacement.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\WallNumberPlacement.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\Phuong\WallNumberPlc\WallNumberPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Program Files\Intergraph\GTechnology\Program\WallNumberPlacement.dll
+C:\Program Files\Intergraph\GTechnology\Program\WallNumberPlacement.pdb

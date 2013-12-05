@@ -1,0 +1,34 @@
+             case 7000:
+                                    ChangeCableCodeCount(iFID, iFNO, "GC_CBL");
+                                    if (!OffsetCableCount(iFID, ""))  // if fail update to geo
+                                        OffsetCableCount(iFID, "D"); // the update to detail
+                                    break;
+                                case 10300: ChangeCableCode(iFID, iFNO, "GC_ITFACE"); break;
+                                case 10800: ChangeSpliceCableCode(iFID, iFNO); break;
+                                case 6200: ChangeCableCode(iFID, iFNO, "GC_PDDP"); break;
+                                case 6300: ChangeCableCode(iFID, iFNO, "GC_DDP"); break;
+                                // attachment
+                                // to be explore ???
+                                case 6400: ChangeCableCode(iFID, iFNO, "GC_CONTGAUGE"); break;
+                                case 6500: ChangeCableCode(iFID, iFNO, "GC_CONTALARM"); break;
+                                case 6600: ChangeCableCode(iFID, iFNO, "GC_GASSEAL"); break;
+                                case 6700: ChangeCableCode(iFID, iFNO, "GC_TESTPNT"); break;
+                                case 6800: ChangeCableCode(iFID, iFNO, "GC_LDCOIL"); break;
+                                case 6900: ChangeCableCode(iFID, iFNO, "GC_TRNSDCR"); break;
+                            }
+
+                        }
+                        else
+                        {
+                            switch (iFNO)
+                            {
+                                case 7000:
+                                    ChangeITFACECount(iFID, iFNO);
+                                    if (!OffsetCableCount(iFID, "")) OffsetCableCount(iFID, "D");
+                                    break;
+                                //case 10300: ChangeITFACE(iFID, iFNO, "GC_ITFACE"); break;
+                                case 10800: ChangeSpliceITFACE(iFID, iFNO); break;
+                                case 13000: ChangeITFACE(iFID, iFNO, "GC_DP"); break;
+                                case 13100: ChangeITFACE(iFID, iFNO, "GC_PDP"); break;
+                                case 13200: ChangeITFACE(iFID, iFNO, "GC_IDF"); break;
+                            }

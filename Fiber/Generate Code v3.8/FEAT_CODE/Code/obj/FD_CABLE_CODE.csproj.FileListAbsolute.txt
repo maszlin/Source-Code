@@ -1,0 +1,5 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.FD_CABLE_CODE.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.FD_CABLE_CODE.pdb
+E:\Source Code\FD Cable - Gen Cable Code v1.0\Source Code\FD_CABLE_CODE\Code\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code\FD Cable - Gen Cable Code v1.0\Source Code\FD_CABLE_CODE\Code\obj\Debug\NEPS.FD_CABLE_CODE.dll
+E:\Source Code\FD Cable - Gen Cable Code v1.0\Source Code\FD_CABLE_CODE\Code\obj\Debug\NEPS.FD_CABLE_CODE.pdb

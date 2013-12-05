@@ -1,0 +1,17 @@
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.pdb
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.ResolveComReference.cache
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.GTechnology.StubStumpPlacement.Properties.Resources.resources
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.GenerateResource.Cache
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.pdb

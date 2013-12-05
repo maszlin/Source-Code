@@ -1,0 +1,20 @@
+G:\do\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\ResolveAssemblyReference.cache
+G:\do\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.Properties.Resources.resources
+G:\do\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\ExcFrame.csproj.GenerateResource.Cache
+G:\do\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.frmFrame.resources
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.EXC.FRAME.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.EXC.FRAME.pdb
+G:\do\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.dll
+G:\do\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.pdb
+G:\do_developt\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\ResolveAssemblyReference.cache
+G:\do_developt\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.frmFrame.resources
+G:\do_developt\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.Properties.Resources.resources
+G:\do_developt\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\ExcFrame.csproj.GenerateResource.Cache
+G:\do_developt\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.dll
+G:\do_developt\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.frmFrame.resources
+G:\new_code\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\ExcFrame.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.dll
+G:\new_code\developt\NEPS.OSP.COPPER.EXC.FRAME\obj\Debug\NEPS.OSP.COPPER.EXC.FRAME.pdb

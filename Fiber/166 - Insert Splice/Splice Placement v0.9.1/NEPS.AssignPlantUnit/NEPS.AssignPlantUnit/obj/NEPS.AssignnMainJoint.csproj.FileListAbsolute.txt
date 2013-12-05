@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\NEPS.AssignnMainJoint.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\NEPS.AssignnMainJoint.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\Intergraph.GTechnology.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\program Files\intergraph\gtechnology\Program\NEPS.AssignMainJoint.dll
+C:\program Files\intergraph\gtechnology\Program\NEPS.AssignMainJoint.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\obj\Debug\NEPS.AssignMainJoint.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\obj\Debug\NEPS.AssignMainJoint.pdb

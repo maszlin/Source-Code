@@ -1,0 +1,106 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0FB7593E-9808-4E6F-A713-6D692E396FCC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NEPS.OSP.COPPER.PLOT.MULTI</RootNamespace>
+    <AssemblyName>NEPS.OSP.COPPER.PLOT.MULTI</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\..\..\Program Files\Intergraph\GTechnology\Program\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Intergraph.GTechnology, Version=1.0.0.0, Culture=neutral, PublicKeyToken=541aba6d74290186, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsCheckedListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="clsGetPlotConfig.cs" />
+    <Compile Include="clsPlotFrame.cs" />
+    <Compile Include="clsPlotArea.cs" />
+    <Compile Include="clsPlotProperties.cs" />
+    <Compile Include="clsPlotting.cs" />
+    <Compile Include="clsUtilities.cs" />
+    <Compile Include="frmMultiPlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultiPlot.Designer.cs">
+      <DependentUpon>frmMultiPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GTMultiPlot.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="PGeoLib.cs" />
+    <Compile Include="PPlottingLib.cs" />
+    <Compile Include="PRedlineLib.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="usrPlotList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usrPlotList.Designer.cs">
+      <DependentUpon>usrPlotList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usrPlotProperties.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usrPlotProperties.designer.cs">
+      <DependentUpon>usrPlotProperties.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmMultiPlot.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMultiPlot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usrPlotList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>usrPlotList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usrPlotProperties.resx">
+      <DependentUpon>usrPlotProperties.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

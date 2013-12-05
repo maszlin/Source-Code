@@ -1,0 +1,8 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE_TRANSFER_POST.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE_TRANSFER_POST.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER_POST\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER_POST\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER_POST.frmTransferPost.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER_POST\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER_POST.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER_POST\obj\Debug\TransferPost.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER_POST\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER_POST.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Transfer\NEPS.OSP.COPPER.CABLE_TRANSFER_POST\obj\Debug\NEPS.OSP.COPPER.CABLE_TRANSFER_POST.pdb

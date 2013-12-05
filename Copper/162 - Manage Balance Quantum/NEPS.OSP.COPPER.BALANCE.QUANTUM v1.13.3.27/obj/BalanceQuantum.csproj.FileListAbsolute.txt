@@ -1,0 +1,24 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.BALANCE.QUANTUM.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.BALANCE.QUANTUM.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.frmBalanceQuantum.resources
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\BalanceQuantum.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.dll
+G:\new_code\developt\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.frmBalanceQuantum.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\BalanceQuantum.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Release\NEPS.OSP.COPPER.BALANCE.QUANTUM.frmBalanceQuantum.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Release\NEPS.OSP.COPPER.BALANCE.QUANTUM.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Balance Quantum\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Release\BalanceQuantum.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.frmBalanceQuantum.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\BalanceQuantum.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.BALANCE.QUANTUM\obj\Debug\NEPS.OSP.COPPER.BALANCE.QUANTUM.pdb

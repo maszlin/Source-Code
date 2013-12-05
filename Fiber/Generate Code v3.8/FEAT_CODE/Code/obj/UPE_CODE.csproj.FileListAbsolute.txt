@@ -1,0 +1,8 @@
+E:\Source Code\UPE - Gen Code v1.0\Source Code\UPE_CODE\Code\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code\UPE - Gen Code v1.0\Source Code\UPE_CODE\Code\obj\Debug\NEPS.UPE_CODE.dll
+E:\Source Code\UPE - Gen Code v1.0\Source Code\UPE_CODE\Code\obj\Debug\NEPS.UPE_CODE.pdb
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.UPE_CODE.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.UPE_CODE.pdb
+D:\Source Code\UPE - Gen Code v1.0\Source Code\UPE_CODE\Code\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Code\UPE - Gen Code v1.0\Source Code\UPE_CODE\Code\obj\Debug\NEPS.UPE_CODE.dll
+D:\Source Code\UPE - Gen Code v1.0\Source Code\UPE_CODE\Code\obj\Debug\NEPS.UPE_CODE.pdb

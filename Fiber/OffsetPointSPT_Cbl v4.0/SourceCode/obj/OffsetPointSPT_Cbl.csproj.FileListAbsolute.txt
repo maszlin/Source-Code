@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna\obj\Debug\AG.GTechnology.OffsetPointSPT_Cbl.frmODF.resources
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna\obj\Debug\OffsetPointSPT_Cbl.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OffsetPointSPT_Cbl.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OffsetPointSPT_Cbl.pdb
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna\obj\Debug\AG.GTechnology.OffsetPointSPT_Cbl.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna\obj\Debug\NEPS.OffsetPointSPT_Cbl.dll
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna\obj\Debug\NEPS.OffsetPointSPT_Cbl.pdb
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna_v4.0\SourceCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna_v4.0\SourceCode\obj\Debug\AG.GTechnology.OffsetPointSPT_Cbl.frmODF.resources
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna_v4.0\SourceCode\obj\Debug\AG.GTechnology.OffsetPointSPT_Cbl.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna_v4.0\SourceCode\obj\Debug\OffsetPointSPT_Cbl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna_v4.0\SourceCode\obj\Debug\NEPS.OffsetPointSPT_Cbl.dll
+C:\Documents and Settings\Administrator\Desktop\FIBER\OffsetPointSPT_Cbl_anna_v4.0\SourceCode\obj\Debug\NEPS.OffsetPointSPT_Cbl.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\OffsetPointSPT_Cbl_anna_v4.0_two int\SourceCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\OffsetPointSPT_Cbl_anna_v4.0_two int\SourceCode\obj\Debug\AG.GTechnology.OffsetPointSPT_Cbl.frmODF.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\OffsetPointSPT_Cbl_anna_v4.0_two int\SourceCode\obj\Debug\AG.GTechnology.OffsetPointSPT_Cbl.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\OffsetPointSPT_Cbl_anna_v4.0_two int\SourceCode\obj\Debug\OffsetPointSPT_Cbl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\OffsetPointSPT_Cbl_anna_v4.0_two int\SourceCode\obj\Debug\NEPS.OffsetPointSPT_Cbl.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\OffsetPointSPT_Cbl_anna_v4.0_two int\SourceCode\obj\Debug\NEPS.OffsetPointSPT_Cbl.pdb

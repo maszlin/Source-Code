@@ -1,0 +1,8 @@
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.frmCableCode.resources
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\CableCode.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE.CODE.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.CABLE.CODE.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.dll
+G:\new_code\developt\NEPS.OSP.COPPER.CABLE.CODE\obj\Debug\NEPS.OSP.COPPER.CABLE.CODE.pdb

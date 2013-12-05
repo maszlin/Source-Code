@@ -1,0 +1,30 @@
+Hi Hazman,
+Below are the fields (underlines) and the tables.
+CNO = 11801 =GC_FSPLICE
+CNO =    51 =GC_NETELEM
+
+if you could display the feature explorer, from the Functional Interface, you would not need to build the GUI
+
+HTH
+Michael
+
+ G3E_TANO    G3E_PNO G3E_TRIGGERPOPULATE G3E_DEFAULT     G3E_CNO    G3E_ANO G3E_FIELD
+--------- ---------- ------------------- ------------ ---------- ---------- ---------------
+118010102                              0 FUJIKURA          11801    1180106 MANUFACTURER <<<<<<
+118010114      11802                   0                   11801    1180120 BRANCH_TYPE <<<<<
+118010115      11803                   0                   11801    1180121 CLOSURE_SIZE <<<<
+118010117      50098                   0 APEX              11801    1180123 CONTRACTOR <<<<<
+118010105      11801                   1                      51       5114 MIN_MATERIAL <<<<<
+118010106                              0 TM                   51       5111 OWNERSHIP <<<<<
+118010110                              0 PROPOSED             51       5107 JOB_STATE <<<
+118010111                              0 PPF                  51       5108 FEATURE_STATE <<<<
+118010113                              0 2012                 51       5112 YEAR_PLACED <<<<
+
+
+No update:
+
+118010104                              0                   11801    1180108 DESCRIPTION
+118010101                              0                   11801    1180109 PHYSICAL_TYPE
+118010103                              0                   11801    1180107 MODEL
+118010109         31                   0                      51       5106 JOB_ID
+118010108                              0                      51       5132 EXC_ABB

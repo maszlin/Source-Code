@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Jointing\Cable Joint  Delete\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Jointing\Cable Joint  Delete\obj\Debug\NEPS.DeleteCableJoint.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Jointing\Cable Joint  Delete\obj\Debug\NEPS.GTechnology.Delete_Joint.Properties.Resources.resources
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.Delete_Joint.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.Delete_Joint.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Jointing\Cable Joint  Delete\obj\Debug\NEPS.Delete_Joint.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE Jointing\Cable Joint  Delete\obj\Debug\NEPS.Delete_Joint.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE JOINT\Cable Joint  Delete\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE JOINT\Cable Joint  Delete\obj\Debug\NEPS.GTechnology.Delete_Joint.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE JOINT\Cable Joint  Delete\obj\Debug\NEPS.DeleteCableJoint.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE JOINT\Cable Joint  Delete\obj\Debug\NEPS.Delete_Joint.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABLE JOINT\Cable Joint  Delete\obj\Debug\NEPS.Delete_Joint.pdb

@@ -1,0 +1,5 @@
+C:\program Files\intergraph\gtechnology\Program\NEPS.AssignMainJoint.dll
+C:\program Files\intergraph\gtechnology\Program\NEPS.AssignMainJoint.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\obj\Debug\NEPS.AssignMainJoint.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.AssignnMainJoint\NEPS.AssignnMainJoint\obj\Debug\NEPS.AssignMainJoint.pdb

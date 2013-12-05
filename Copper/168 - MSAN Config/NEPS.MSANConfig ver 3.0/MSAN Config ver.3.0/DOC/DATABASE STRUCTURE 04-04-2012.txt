@@ -1,0 +1,333 @@
+	select table_name from user_tables where table_name like 'REF_COP%';
+	select distinct g3e_table from g3e_picklist;
+	create sequence GC_PORT_CONNECT_SEQ ;
+
+	create table GC_PORT_CONNECT
+	(
+		G3E_ID      NUMBER(10),
+		IN_FNO      NUMBER(5),
+		IN_FID      NUMBER(10),
+		IN_LO_PR    NUMBER(5),
+		IN_HI_PR    NUMBER(5),
+		OUT_FNO     NUMBER(5),
+		OUT_FID     NUMBER(10),
+		OUT_LO_PR   NUMBER(5),
+		OUT_HI_PR   NUMBER(5)
+	);
+	   
+	G3E_TABLE
+	--------------------------   
+	REF_COP_MANUFACT; - COPPER MANUFACTURER
+	REF_COP_DSLAMCONTR
+	REF_COP_DSLAMFAC
+	REF_COP_DSLAMLOC
+	REF_COP_DSLAMPLCTYPE
+	REF_COP_DSLAMTERMBLKTYPE
+	REF_COP_DSLAMTYPE
+
+	REF_COP_CABCAP
+	REF_COP_CABTYPE
+	REF_COP_CARDCAPACITY
+	REF_COP_CARDTYPE
+	REF_COP_CATYPE
+	REF_COP_CBLDSLAMGAUGE
+
+
+	> SELECT * FROM REF_COP_CARDTYPE;
+
+	PL_NUM PL_VALUE
+	------ ------------------------------
+		 1 ***
+		 2 ADSL
+		 3 SDSL
+		 4 Trunk Card
+		 5 Subtending Card
+		 6 IDSL
+		 7 HDSL
+		 8 HDSL 2
+		 9 GLTE
+		10 Trunk/Subtending
+		11 NA
+		12 Blank
+		13 IVSL
+		
+	> SELECT * FROM REF_COP_DSLAMTERMBLKTYPE;
+
+	PL_NUM PL_VALUE
+	------ --------------------
+		 1 E-side
+		 2 D-side
+		 
+	> SELECT * FROM REF_COP_DSLAMFAC;
+
+	PL_NUM PL_VALUE
+	------ ------------------------------
+		 1 ***
+		 2 LUCENT
+		 3 SIEMENS
+		 4 NEC
+		 5 LG
+		 6 HYUNDAI
+		 7 APEX
+		 8 ALCATEL
+		 9 MARCONI
+		10 HUAWEI
+		11 TURBO NETWORK
+		12 SAMSUNG
+		13 ZTE & DATANG
+
+	> SELECT * FROM REF_COP_DSLAMLOC;
+
+	PL_NUM PL_VALUE
+	----- ------------------------------
+		1 Exchange
+		2 Inside RT
+		3 Separate CAB
+		
+	> SELECT * FROM REF_COP_DSLAMPLCTYPE;
+
+	 PL_NUM PL_VALUE
+	------- --------------------
+		  1 ***
+		  2 UG
+		  3 AT
+		  4 AD
+		  5 HR
+		  6 VR
+		  7 TK	
+		  
+	> SELECT * FROM REF_COP_DSLAMCONTR;
+
+	PL_NUM PL_VALUE
+	------ ---------------------------
+		 1 ***
+		 2 KUB
+		 3 CMC
+		 4 AIR STAR
+		 5 PERNEC
+		 6 GENESIS
+		 7 COMINTEL
+		 8 FUJITSU
+		 9 RESSCOM TECHNOLOGIES
+		10 MARCONI
+		11 SILVER RIDGE
+		12 KUB FUJITSU (KFT)
+		13 SUMBER SATRIA
+		14 TECHNITIUM
+		
+	> SELECT * FROM REF_COP_DSLAMTYPE;
+
+	PL_NUM PL_VALUE
+	------ -------------------------
+		 1 DSLAM
+		 2 RDSLAM
+		 3 RT DSLAM
+		 
+	> SQL> DESC GC_RACK;
+	 Name                                      Null?    Type
+	 ----------------------------------------- -------- ----------------------------
+	 G3E_ID                                    NOT NULL NUMBER(10)
+	 G3E_FNO                                   NOT NULL NUMBER(5)
+	 G3E_FID                                   NOT NULL NUMBER(10)
+	 G3E_CNO                                   NOT NULL NUMBER(5)
+	 G3E_CID                                   NOT NULL NUMBER(10)
+	 AISLE                                              VARCHAR2(50)
+	 ALARM_POS                                          VARCHAR2(50)
+    # AREA_NAME                                          VARCHAR2(50)
+	# AVAILABILITY                                       VARCHAR2(50)
+	 BAR_CODE                                           VARCHAR2(50)
+	 BAY_NUM                                            VARCHAR2(10)
+	# CITY_NAME                                          VARCHAR2(50)
+	 CLASS                                              VARCHAR2(50)
+	 COEO_NUM                                           VARCHAR2(10)
+	 COLOUR                                             VARCHAR2(50)
+	 CREATED_BY                                         VARCHAR2(30)
+	 CREATED_DATE                                       DATE
+	 CREATED_HOST                                       VARCHAR2(50)
+	 CREATED_IP_ADDRESS                                 VARCHAR2(30)
+	 CREATED_OS_USER                                    VARCHAR2(50)
+	 DEPTH                                              NUMBER(5)
+	# DESCRIPTION                                        VARCHAR2(50)
+	 DOUBLE_SIDE                                        VARCHAR2(10)
+	 END_GUARD                                          VARCHAR2(20)
+	# FEATURE_TYPE                                       VARCHAR2(50)
+	# FIELD_CODE                                         VARCHAR2(50)
+	 FLOOR                                              VARCHAR2(50)
+	 FRMNNX                                             VARCHAR2(50)
+	 HEIGHT                                             NUMBER(5)
+	 IBN_COMPLIANT                                      VARCHAR2(50)
+	# LOCATION                                           VARCHAR2(50)
+	# MANUFACTURER                                       VARCHAR2(50)
+	 MAX_SHELVES                                        NUMBER(5)
+	# MODEL                                              VARCHAR2(50)
+	 MODIFIED_BY                                        VARCHAR2(30)
+	 MODIFIED_DATE                                      DATE
+	 MODIFIED_HOST                                      VARCHAR2(50)
+	 MODIFIED_IP_ADDRESS                                VARCHAR2(30)
+	 MODIFIED_OS_USER                                   VARCHAR2(50)
+	# NODE_NAME                                          VARCHAR2(50)
+	 NUM_COLUMN                                         NUMBER(5)
+	 NUM_ROWS                                           NUMBER(5)
+	 POSITION                                           VARCHAR2(50)
+	 POWER_SOURCE                                       VARCHAR2(50)
+	# SERIAL_NUM                                         VARCHAR2(50)
+	 THRESHOLD                                          NUMBER(10)
+	 TOTAL_POWER_LOAD                                   VARCHAR2(50)
+	 WIDTH                                              NUMBER(5)
+	 
+	 SQL> DESC GC_SHELF;
+	 Name                                      Null?    Type
+	 ----------------------------------------- -------- -------------------
+	 G3E_ID                                    NOT NULL NUMBER(10)
+	 G3E_FNO                                   NOT NULL NUMBER(5)
+	 G3E_FID                                   NOT NULL NUMBER(10)
+	 G3E_CNO                                   NOT NULL NUMBER(5)
+	 G3E_CID                                   NOT NULL NUMBER(10)
+	# AVAILABILITY                                       VARCHAR2(50)
+	 BAR_CODE                                           VARCHAR2(50)
+	 BAY_NUMBER                                         NUMBER(10)
+	# BLCK_SHF_NUMBER                                    NUMBER(10)
+	# CAPACITY                                           VARCHAR2(50)
+	 CLASS                                              VARCHAR2(50)
+	# COUNT_IN                                           VARCHAR2(50)
+	# COUNT_OUT                                          VARCHAR2(50)
+	 CREATED_BY                                         VARCHAR2(30)
+	 CREATED_DATE                                       DATE
+	 CREATED_HOST                                       VARCHAR2(50)
+	 CREATED_IP_ADDRESS                                 VARCHAR2(30)
+	 CREATED_OS_USER                                    VARCHAR2(50)
+	 DATE_REQ_COMPL                                     DATE
+	 DEPTH                                              NUMBER(5)
+	# DESCRIPTION                                        VARCHAR2(50)
+	 EQP_CLLI                                           VARCHAR2(11)
+	 FA_DATE                                            DATE
+	 FEATURE_TYPE                                       VARCHAR2(50)
+	 HEIGHT                                             NUMBER(5)
+	 HOST_SWITCH_CLLI                                   VARCHAR2(50)
+	# HOUSING_ID                                         VARCHAR2(50)
+	 HPPRT                                              NUMBER(3)
+	 LOG_FRAME                                          VARCHAR2(50)
+	# MANUFACTURER                                       VARCHAR2(50)
+	# MODEL                                              VARCHAR2(50)
+	 MODIFIED_BY                                        VARCHAR2(30)
+	 MODIFIED_DATE                                      DATE
+	 MODIFIED_HOST                                      VARCHAR2(50)
+	 MODIFIED_IP_ADDRESS                                VARCHAR2(30)
+	 MODIFIED_OS_USER                                   VARCHAR2(50)
+	 MOUNT_SPACE                                        NUMBER(2)
+	# NUM_SLOTS                                          NUMBER(10)
+	 PLANNED_FA_DATE                                    DATE
+	 POSITION                                           VARCHAR2(50)
+	# SERIAL_NUM                                         VARCHAR2(50)
+	 SMU_NUM                                            VARCHAR2(5)
+	# SPLICE_TYPE                                        VARCHAR2(50)
+	 SUPER_TYPE                                         VARCHAR2(50)
+	 TAPER_TYPE_CD                                      VARCHAR2(50)
+	 THRESHOLD                                          NUMBER(10)
+	 WEIGHT                                             NUMBER(5)
+	 WIDTH                                              NUMBER(5)
+	 WIRING                                             NUMBER(2)
+	 
+	 SQL> DESC GC_SLOT;
+	 Name                                      Null?    Type
+	 ----------------------------------------- -------- --------------------------
+	 G3E_ID                                    NOT NULL NUMBER(10)
+	 G3E_FNO                                   NOT NULL NUMBER(5)
+	 G3E_FID                                   NOT NULL NUMBER(10)
+	 G3E_CNO                                   NOT NULL NUMBER(5)
+	 G3E_CID                                   NOT NULL NUMBER(10)
+	# AVAILABILITY                                       VARCHAR2(50)
+	# CLIENT_ADDRESS                                     VARCHAR2(150)
+	# COMPANY_MANAGED                                    VARCHAR2(3)
+	# COMPANY_OWNED                                      VARCHAR2(3)
+	 COUNT_ANNOTATION                                   VARCHAR2(2048)
+	 CREATED_BY                                         VARCHAR2(30)
+	 CREATED_DATE                                       DATE
+	 CREATED_HOST                                       VARCHAR2(50)
+	 CREATED_IP_ADDRESS                                 VARCHAR2(30)
+	 CREATED_OS_USER                                    VARCHAR2(50)
+	 EQUIP_CLLI                                         VARCHAR2(50)
+	# FEATURE_TYPE                                       VARCHAR2(50)
+	 G3E_PAIRCOUNTPREFIX                                NUMBER(1)
+	 HOST_SWITCH_CLLI                                   VARCHAR2(50)
+	 MODIFIED_BY                                        VARCHAR2(30)
+	 MODIFIED_DATE                                      DATE
+	 MODIFIED_HOST                                      VARCHAR2(50)
+	 MODIFIED_IP_ADDRESS                                VARCHAR2(30)
+	 MODIFIED_OS_USER                                   VARCHAR2(50)
+	# NUMBER_IN                                          VARCHAR2(50)
+	# NUMBER_OUT                                         VARCHAR2(50)
+	 PLANNED_FA_DATE                                    DATE
+	# POSITION                                           VARCHAR2(50)
+	 TAPER_CD                                           VARCHAR2(50)
+	 THRESHOLD                                          NUMBER(10)
+	 
+	 SQL> DESC GC_CARD;
+	 Name                                      Null?    Type
+	 ----------------------------------------- -------- ----------------------
+	 G3E_ID                                    NOT NULL NUMBER(10)
+	 G3E_FNO                                   NOT NULL NUMBER(5)
+	 G3E_FID                                   NOT NULL NUMBER(10)
+	 G3E_CNO                                   NOT NULL NUMBER(5)
+	 G3E_CID                                   NOT NULL NUMBER(10)
+	 BAR_CODE                                           VARCHAR2(50)
+	# CAPACITY                                           VARCHAR2(50)
+	# CLASS                                              VARCHAR2(50)
+	 CONFIG_CHARACTERISTICS                             VARCHAR2(50)
+	 CONFIG_NAME                                        VARCHAR2(50)
+	 CONFIG_TYPE                                        VARCHAR2(50)
+	 COUNT_ANNOTATION                                   VARCHAR2(2048)
+	 CREATED_BY                                         VARCHAR2(30)
+	 CREATED_DATE                                       DATE
+	 CREATED_HOST                                       VARCHAR2(50)
+	 CREATED_IP_ADDRESS                                 VARCHAR2(30)
+	 CREATED_OS_USER                                    VARCHAR2(50)
+	 CUTOVER                                            VARCHAR2(3)
+	 DEFERRABLE_PLUG                                    VARCHAR2(3)
+	 DEPTH                                              VARCHAR2(10)
+	# DESCRIPTION                                        VARCHAR2(50)
+	 EQUIPMENT_CLLIB                                    VARCHAR2(50)
+	 EQUP_ORDER_STATUS                                  VARCHAR2(50)
+	# FEATURE_TYPE                                       VARCHAR2(50)
+	 FIRMWARE_CODE                                      VARCHAR2(10)
+	 G3E_PAIRCOUNTPREFIX                                NUMBER(1)
+	 HEIGHT                                             VARCHAR2(10)
+	 HOST_BCS_SW                                        VARCHAR2(50)
+	 HOST_SWITCH_CLLI                                   VARCHAR2(11)
+	# INTERFACE_CARD_ID                                  VARCHAR2(50)
+	# INTERFACE_CARD_TYPE                                VARCHAR2(50)
+	 LEVEL_TRANS                                        VARCHAR2(10)
+	 LINK_LENGTH                                        VARCHAR2(50)
+	 LINK_TYPE                                          VARCHAR2(50)
+	# MANUFACTURER                                       VARCHAR2(50)
+	 MIN_SPARE_LEVEL                                    VARCHAR2(50)
+	# MODEL                                              VARCHAR2(50)
+	 MODIFIED_BY                                        VARCHAR2(30)
+	 MODIFIED_DATE                                      DATE
+	 MODIFIED_HOST                                      VARCHAR2(50)
+	 MODIFIED_IP_ADDRESS                                VARCHAR2(30)
+	 MODIFIED_OS_USER                                   VARCHAR2(50)
+	# NUMBER_IN                                          VARCHAR2(50)
+	# NUMBER_OUT                                         VARCHAR2(50)
+	# NUM_PORTS                                          NUMBER(5)
+	 OPC_CLLI                                           VARCHAR2(11)
+	 ORIGINATING_CLLI                                   VARCHAR2(50)
+	 OWNER                                              VARCHAR2(50)
+	# PAIR_COUNT                                         VARCHAR2(50)
+	 PLANNED_FA_DATE                                    DATE
+	 POSITION                                           VARCHAR2(50)
+	 POWER_LOAD                                         VARCHAR2(50)
+	 REMOTE_FW_TYPE                                     VARCHAR2(50)
+	# SERIAL_NUM                                         VARCHAR2(50)
+	 SERVICE_TYPE                                       VARCHAR2(50)
+	 SOFTWARE_CODE                                      VARCHAR2(10)
+	 SOFTWARE_NAME                                      VARCHAR2(50)
+	 SOFTWARE_TYPE                                      VARCHAR2(50)
+	 SOFTWARE_VERSION                                   VARCHAR2(50)
+	 SOFTWARE_VINTAGE                                   VARCHAR2(50)
+	 TAPER_CD                                           VARCHAR2(50)
+	 TERMINATING_CLLI                                   VARCHAR2(50)
+	 THRESHOLD                                          NUMBER(10)
+	 TOTAL_CAPACITY                                     NUMBER(5)
+	 VERSION                                            VARCHAR2(50)
+	 WIDTH                                              VARCHAR2(10)

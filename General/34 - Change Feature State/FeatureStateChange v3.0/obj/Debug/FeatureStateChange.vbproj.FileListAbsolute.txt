@@ -1,0 +1,4 @@
+C:\TM-Ramesh\Project_Gcom\ChangeFeatureState\FeatureStateChange_Source\FeatureStateChange\obj\Debug\ResolveAssemblyReference.cache
+C:\TM-Ramesh\Project_Gcom\ChangeFeatureState\FeatureStateChange_Source\FeatureStateChange\obj\Debug\FeatureStateChange.frmStateChange.resources
+C:\TM-Ramesh\Project_Gcom\ChangeFeatureState\FeatureStateChange_Source\FeatureStateChange\obj\Debug\FeatureStateChange.Resources.resources
+C:\TM-Ramesh\Project_Gcom\ChangeFeatureState\FeatureStateChange_Source\FeatureStateChange\obj\Debug\FeatureStateChange.vbproj.GenerateResource.Cache

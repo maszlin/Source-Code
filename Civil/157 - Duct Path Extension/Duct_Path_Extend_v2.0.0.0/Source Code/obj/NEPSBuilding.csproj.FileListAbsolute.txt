@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\Desktop\NEPSTEST\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\NEPSTEST\obj\Debug\NEPSBuilding.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\NEPSTEST\obj\Debug\NEPS.GTechnology.NEPSBLDG.GTWindowsForm_BLDG.resources
+C:\Documents and Settings\Administrator\Desktop\NEPSTEST\obj\Debug\NEPS.GTechnology.NEPSBLDG.Properties.Resources.resources
+C:\Program Files\Intergraph\GTechnology\Program\NEPSBLDG.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPSBLDG.pdb
+C:\Documents and Settings\Administrator\Desktop\NEPSTEST\obj\Debug\NEPSBLDG.dll
+C:\Documents and Settings\Administrator\Desktop\NEPSTEST\obj\Debug\NEPSBLDG.pdb
+C:\Documents and Settings\Administrator\Desktop\NEPSBLDG\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\NEPSBLDG\obj\Debug\NEPS.GTechnology.NEPSBLDG.GTWindowsForm_BLDG.resources
+C:\Documents and Settings\Administrator\Desktop\NEPSBLDG\obj\Debug\NEPS.GTechnology.NEPSBLDG.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\NEPSBLDG\obj\Debug\NEPSBuilding.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\NEPSBLDG\obj\Debug\NEPSBLDG.dll
+C:\Documents and Settings\Administrator\Desktop\NEPSBLDG\obj\Debug\NEPSBLDG.pdb

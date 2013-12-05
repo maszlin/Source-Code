@@ -1,0 +1,8 @@
+E:\Source Code\FIB_TRUNK_CODE\Code\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code\FIB_TRUNK_CODE\Code\obj\Debug\NEPS.FIB_TRUNK_CODE.dll
+E:\Source Code\FIB_TRUNK_CODE\Code\obj\Debug\NEPS.FIB_TRUNK_CODE.pdb
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.FIB_TRUNK_CODE.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.FIB_TRUNK_CODE.pdb
+D:\Source Code\Code Gen\FIB_TRUNK_CODE\Code\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Code\Code Gen\FIB_TRUNK_CODE\Code\obj\Debug\NEPS.FIB_TRUNK_CODE.dll
+D:\Source Code\Code Gen\FIB_TRUNK_CODE\Code\obj\Debug\NEPS.FIB_TRUNK_CODE.pdb

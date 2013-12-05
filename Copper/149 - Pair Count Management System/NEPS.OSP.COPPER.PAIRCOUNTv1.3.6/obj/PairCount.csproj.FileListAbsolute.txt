@@ -1,0 +1,59 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNT\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNT\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNT\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNT\obj\Debug\PairCount.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNT\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNT\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\ResolveAssemblyReference.cache
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\PairCount.csproj.GenerateResource.Cache
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+G:\new_code\developt\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\PairCount.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\PairCount.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv2\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\PairCount.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\PairCount.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Pair Count\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Release\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Release\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Release\PairCount.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\bin\GTDotNetSamples.XML
+C:\Documents and Settings\Administrator\bin\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\bin\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Release\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Release\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\PairCount.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\Desktop\zam zam\NEPS.OSP.COPPER.PAIRCOUNTv3\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.PAIRCOUNTv1.3.6\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.PAIRCOUNTv1.3.6\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.frmPairCount.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.PAIRCOUNTv1.3.6\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.PAIRCOUNTv1.3.6\obj\Debug\PairCount.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.PAIRCOUNTv1.3.6\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.dll
+C:\Documents and Settings\Administrator\Desktop\Copper\NEPS.OSP.COPPER.PAIRCOUNTv1.3.6\obj\Debug\NEPS.OSP.COPPER.PAIRCOUNT.pdb

@@ -1,0 +1,5 @@
+  select b.g3e_fid  from b$gc_bnd_p a, b$gc_adm_property_s b  where a.g3e_fid = 1869691 and sdo_inside ( a.g3e_geometry, b.g3e_geometry ) = 'TRUE'; 
+    
+	
+	its working
+	 select b.g3e_fid   from b$gc_bnd_p a, gc_adm_property_s b  where a.g3e_fid = 1981906 and sdo_inside ( b.g3e_geometry, a.g3e_geometry ) = 'TRUE'; 

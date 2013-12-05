@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\Insert Splitter v1.0\Source Code\Insert Splitter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\Insert Splitter v1.0\Source Code\Insert Splitter\obj\Debug\AG.GTechnology.InsertFiberSplitter.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\Insert Splitter v1.0\Source Code\Insert Splitter\obj\Debug\InsertSplitter.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.InsertFiberSplitter.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.InsertFiberSplitter.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\Insert Splitter v1.0\Source Code\Insert Splitter\obj\Debug\NEPS.InsertFiberSplitter.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\Insert Splitter v1.0\Source Code\Insert Splitter\obj\Debug\NEPS.InsertFiberSplitter.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\FIBER\Insert Splitter v1.0\Source Code\Insert Splitter\obj\Debug\AG.GTechnology.InsertFiberSplitter.GTWindowsForm_InsertSplitter.resources

@@ -1,0 +1,5 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.EPE_CODE.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.EPE_CODE.pdb
+E:\Source Code\EPE - Gen Code v1.0\Source Code\EPE_CODE\Code\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code\EPE - Gen Code v1.0\Source Code\EPE_CODE\Code\obj\Debug\NEPS.EPE_CODE.dll
+E:\Source Code\EPE - Gen Code v1.0\Source Code\EPE_CODE\Code\obj\Debug\NEPS.EPE_CODE.pdb

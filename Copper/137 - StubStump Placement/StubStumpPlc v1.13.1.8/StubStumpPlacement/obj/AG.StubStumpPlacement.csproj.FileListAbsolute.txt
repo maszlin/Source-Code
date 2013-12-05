@@ -1,0 +1,49 @@
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.pdb
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.ResolveComReference.cache
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.GTechnology.StubStumpPlacement.Properties.Resources.resources
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.GenerateResource.Cache
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.dll
+C:\Code\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.GTechnology.StubStumpPlacement.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\STUB STUMP\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.pdb
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\NEPS.StubStumpPlacement.pdb
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.PDiag.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GTech.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\APIHelperInterfaces.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\GTech.Interop.GDO.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.CoordSystems.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.xml
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.ResolveComReference.cache
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.GTechnology.StubStumpPlacement.Properties.Resources.resources
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\obj\Debug\AG.StubStumpPlacement.csproj.GenerateResource.Cache
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.dll
+C:\Users\PJ\Documents\Visual Studio 2005\Projects\StubStumpPlc\StubStumpPlacement\obj\Debug\NEPS.StubStumpPlacement.pdb

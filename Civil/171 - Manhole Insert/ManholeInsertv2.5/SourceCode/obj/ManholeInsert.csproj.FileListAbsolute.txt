@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.0\obj\Debug\AG.GTechnology.ManholeInsert.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.0\obj\Debug\ManholeInsert.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.ManholeInsert.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.ManholeInsert.pdb
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.0\obj\Debug\NEPS.ManholeInsert.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.0\obj\Debug\NEPS.ManholeInsert.pdb
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.0\obj\Debug\AG.GTechnology.ManholeInsert.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.1\obj\Debug\AG.GTechnology.ManholeInsert.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.1\obj\Debug\AG.GTechnology.ManholeInsert.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.1\obj\Debug\ManholeInsert.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.1\obj\Debug\NEPS.ManholeInsert.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv1.1\obj\Debug\NEPS.ManholeInsert.pdb
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv2.0\obj\Debug\AG.GTechnology.ManholeInsert.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv2.0\obj\Debug\AG.GTechnology.ManholeInsert.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv2.0\obj\Debug\ManholeInsert.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv2.0\obj\Debug\NEPS.ManholeInsert.dll
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv2.0\obj\Debug\NEPS.ManholeInsert.pdb
+C:\Documents and Settings\Administrator\Desktop\CIVIL\MANHOLE\ManholeInsertv2.0\obj\Debug\AG.GTechnology.ManholeInsert.Messages.resources

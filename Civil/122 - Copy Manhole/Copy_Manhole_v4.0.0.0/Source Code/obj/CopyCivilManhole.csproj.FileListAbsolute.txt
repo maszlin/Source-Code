@@ -1,0 +1,12 @@
+C:\Program Files\Intergraph\GTechnology\Program\CopyCivilManhole.dll
+C:\Program Files\Intergraph\GTechnology\Program\CopyCivilManhole.pdb
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\NEPS.GTechnology.CopyManhole.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\CopyCivilManhole.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\CopyCivilManhole.dll
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\CopyCivilManhole.pdb
+C:\Documents and Settings\Administrator\Desktop\CopyManhole v1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CopyManhole v1\obj\Debug\NEPS.GTechnology.CopyManhole.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CopyManhole v1\obj\Debug\CopyCivilManhole.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CopyManhole v1\obj\Debug\CopyCivilManhole.dll
+C:\Documents and Settings\Administrator\Desktop\CopyManhole v1\obj\Debug\CopyCivilManhole.pdb

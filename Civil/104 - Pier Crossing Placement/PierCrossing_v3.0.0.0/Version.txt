@@ -1,0 +1,81 @@
+
+Version 1.0.1.0
+---------------
+Add Pier Crossing by placing two reference points
+
+1. Click 'Add' button
+2. Click to place first reference point for Pier Crossing Geo Line
+3. Click to place next reference point for Pier Crossing Geo Line
+4. Pier Crossing Geo Line will be created
+5. Click 'Add' button to add another Pier Crossing Geo Line or click 'Close' to exit
+
+
+Version 1.0.2.0
+---------------
+Fixes:
+The left and right Pier Crossing Geo Lines are created as one feature instead of two separate features
+When adding Pier Crossing, the message displayed remains while cursor moves
+When adding Pier Crossing, the Cross hair mouse point remains while cursor moves 
+
+New:
+Shows Progress Bar when creating Pier Crossing feature
+Shows Wait Cursor when creating Pier Crossing feature
+Shows dynamic line geometry when placing reference points for Pier Crossing feature
+
+
+Version 1.0.3.0
+---------------
+New:
+Press Esc to cancel placement
+Press Backspace to delete first reference point for placement
+Rotate Pier Crossing Geo Line
+Press Esc to cancel rotation
+Press Space to toggle rotation origin (centre, start, end)
+Move Pier Crossing Geo Line
+Press Esc to cancel move
+Delete Pier Crossing Geo Line and its attribute information
+Press Esc to cancel deletion
+
+Rotate Pier Crossing
+1. Click 'Rotate' button
+2. Select Pier Crossing Geo Line
+3. Move mouse to desire angle and click to accept the new rotation angle
+Or
+1. Select Pier Crossing Geo Line
+2. Click 'Rotate' button
+3. Move mouse to desire angle and click to accept the new rotation angle
+
+Move Pier Crossing
+1. Click 'Move' button
+2. Select Pier Crossing Geo Line
+3. Move mouse to desire location and click to accept the new location
+Or
+1. Select Pier Crossing Geo Line
+2. Click 'Move' button
+3. Move mouse to desire location and click to accept the new location
+
+Delete Pier Crossing
+1. Click 'Delete' button
+2. Select Pier Crossing Geo Line
+3. Click 'Yes' to delete the Pier Crossing Geo Line
+Or
+1. Select Pier Crossing Geo Line
+2. Click 'Delete' button
+3. Click 'Yes' to delete the Pier Crossing Geo Line
+
+
+Version 1.0.4.0
+---------------
+Change:
+1. Increase the distance between left-side and right-side of the Pier 
+   Crossing Geo Line
+2. Increase the length of the slash-end of the Pier Crossing Geo Line
+
+
+Version 1.0.5.0
+---------------
+Error Fixed:
+"Object reference not set to an instance of an object" error message when 
+  running Pier Crossing again after closing the dialog
+"G3E.EXE Runtime Error" message when exiting G/Technology without closing 
+  Pier Crossing Dialog 

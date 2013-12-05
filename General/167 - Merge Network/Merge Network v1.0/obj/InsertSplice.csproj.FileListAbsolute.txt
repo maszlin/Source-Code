@@ -1,0 +1,7 @@
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.InsertSplice.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.InsertSplice.pdb
+D:\Updated Codes\Insert Splice v1.0\Source Code\Insert Splice v1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Updated Codes\Insert Splice v1.0\Source Code\Insert Splice v1.0\obj\Debug\NEPS.GTechnology.InsertSplice.Properties.Resources.resources
+D:\Updated Codes\Insert Splice v1.0\Source Code\Insert Splice v1.0\obj\Debug\InsertSplice.csproj.GenerateResource.Cache
+D:\Updated Codes\Insert Splice v1.0\Source Code\Insert Splice v1.0\obj\Debug\NEPS.InsertSplice.dll
+D:\Updated Codes\Insert Splice v1.0\Source Code\Insert Splice v1.0\obj\Debug\NEPS.InsertSplice.pdb

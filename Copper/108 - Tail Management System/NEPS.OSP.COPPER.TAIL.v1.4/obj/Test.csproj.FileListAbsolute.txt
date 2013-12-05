@@ -1,0 +1,8 @@
+C:\Program Files\Intergraph\GTechnology\Program\CTA.GTechnology.Test.dll
+C:\Program Files\Intergraph\GTechnology\Program\CTA.GTechnology.Test.pdb
+C:\Documents and Settings\Administrator\Desktop\Custom Command\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Custom Command\obj\Debug\CTA.GTechnology.Test.GTWindowsForm_Test.resources
+C:\Documents and Settings\Administrator\Desktop\Custom Command\obj\Debug\CTA.GTechnology.Test.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Custom Command\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Custom Command\obj\Debug\CTA.GTechnology.Test.dll
+C:\Documents and Settings\Administrator\Desktop\Custom Command\obj\Debug\CTA.GTechnology.Test.pdb

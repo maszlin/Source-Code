@@ -1,0 +1,52 @@
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\NEPS.ManholeDemolish.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\NEPS.ManholeDemolish.pdb
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.GTechnology.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\GTech.Interop.PDiag.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\GTech.Interop.GTech.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\APIHelperInterfaces.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\GTech.Interop.GDO.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.CoordSystems.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.GTechnology.xml
+C:\Code\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Code\ManholeDemolish\ManholeDemolish\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\ManholeDemolish\ManholeDemolish\obj\Debug\AG.ManholeDemolish.csproj.ResolveComReference.cache
+C:\Code\ManholeDemolish\ManholeDemolish\obj\Debug\AG.GTechnology.ManholeDemolish.ManholeCtrl.resources
+C:\Code\ManholeDemolish\ManholeDemolish\obj\Debug\AG.GTechnology.ManholeDemolish.Properties.Resources.resources
+C:\Code\ManholeDemolish\ManholeDemolish\obj\Debug\AG.ManholeDemolish.csproj.GenerateResource.Cache
+C:\Code\ManholeDemolish\ManholeDemolish\obj\Debug\NEPS.ManholeDemolish.dll
+C:\Code\ManholeDemolish\ManholeDemolish\obj\Debug\NEPS.ManholeDemolish.pdb
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\obj\Debug\AG.ManholeDemolish.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\obj\Debug\AG.GTechnology.ManholeDemolish.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\obj\Debug\AG.GTechnology.ManholeDemolish.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\obj\Debug\AG.ManholeDemolish.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\obj\Debug\NEPS.ManholeDemolish.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\NEPS.ManholeDemolish.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\NEPS.ManholeDemolish.pdb
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Documents and Settings\Administrator\Desktop\ManholeDemolish\ManholeDemolish\obj\Debug\NEPS.ManholeDemolish.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\NEPS.ManholeDemolish.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\NEPS.ManholeDemolish.pdb
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\GTech.Interop.PDiag.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\GTech.Interop.GTech.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\APIHelperInterfaces.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\GTech.Interop.GDO.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\Intergraph.CoordSystems.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\Intergraph.GTechnology.Diagnostics.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\Intergraph.GTechnology.xml
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\bin\Debug\Intergraph.GTechnology.Diagnostics.xml
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\obj\Debug\AG.ManholeDemolish.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\obj\Debug\AG.GTechnology.ManholeDemolish.ManholeCtrl.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\obj\Debug\AG.GTechnology.ManholeDemolish.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\obj\Debug\AG.ManholeDemolish.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\obj\Debug\NEPS.ManholeDemolish.dll
+C:\Documents and Settings\Administrator\Desktop\DEVELOPMENT\CIVIL\MANHOLE\ManholeDemolish\SourceCode\ManholeDemolish\obj\Debug\NEPS.ManholeDemolish.pdb

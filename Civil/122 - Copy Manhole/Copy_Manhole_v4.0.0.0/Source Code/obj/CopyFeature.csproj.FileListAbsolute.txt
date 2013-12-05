@@ -1,0 +1,20 @@
+C:\Source Code\CopyFeature\obj\Debug\ResolveAssemblyReference.cache
+C:\Source Code\CopyFeature\obj\Debug\NEPS.GTechnology.CopyFeature.GTWindowsForm_Test.resources
+C:\Source Code\CopyFeature\obj\Debug\NEPS.GTechnology.CopyFeature.Properties.Resources.resources
+C:\Source Code\CopyFeature\obj\Debug\CopyFeature.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\CopyFeature.dll
+C:\Program Files\Intergraph\GTechnology\Program\CopyFeature.pdb
+C:\Source Code\CopyFeature\obj\Debug\CopyFeature.dll
+C:\Source Code\CopyFeature\obj\Debug\CopyFeature.pdb
+C:\Source Code\CopyFeature\obj\Debug\NEPS.GTechnology.CopyFeature.Placement.resources
+C:\Source Code\CopyPole v1.0.0.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Source Code\CopyPole v1.0.0.0\obj\Debug\NEPS.GTechnology.CopyFeature.GTWindowsForm_Test.resources
+C:\Source Code\CopyPole v1.0.0.0\obj\Debug\NEPS.GTechnology.CopyFeature.Properties.Resources.resources
+C:\Source Code\CopyPole v1.0.0.0\obj\Debug\CopyFeature.csproj.GenerateResource.Cache
+C:\Source Code\CopyPole v1.0.0.0\obj\Debug\CopyFeature.dll
+C:\Source Code\CopyPole v1.0.0.0\obj\Debug\CopyFeature.pdb
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\NEPS.GTechnology.CopyFeature.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\CopyFeature.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\CopyFeature.dll
+C:\Documents and Settings\Administrator\Desktop\CopyPole v1.0.1\obj\Debug\CopyFeature.pdb

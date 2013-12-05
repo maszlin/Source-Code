@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Cabinet 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Cabinet 1.0\obj\Debug\NEPS.GTechnology.Cabinet.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Cabinet 1.0\obj\Debug\NEPSCabinet.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Cabinet 1.0\obj\Debug\NEPS.GTechnology.Cabinet.GTCabinetForm.resources
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.Cabinet.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.Cabinet.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Cabinet 1.0\obj\Debug\NEPS.Cabinet.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Cabinet 1.0\obj\Debug\NEPS.Cabinet.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABINET Config\Cabinet 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABINET Config\Cabinet 1.0\obj\Debug\NEPS.GTechnology.Cabinet.GTCabinetForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABINET Config\Cabinet 1.0\obj\Debug\NEPS.GTechnology.Cabinet.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABINET Config\Cabinet 1.0\obj\Debug\NEPSCabinet.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABINET Config\Cabinet 1.0\obj\Debug\NEPS.Cabinet.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\CABINET Config\Cabinet 1.0\obj\Debug\NEPS.Cabinet.pdb
+C:\Documents and Settings\Administrator\Desktop\Copper\Cabinet Config 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Copper\Cabinet Config 1.0\obj\Debug\NEPS.GTechnology.Cabinet.GTCabinetForm.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\Cabinet Config 1.0\obj\Debug\NEPS.GTechnology.Cabinet.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Copper\Cabinet Config 1.0\obj\Debug\NEPSCabinet.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Copper\Cabinet Config 1.0\obj\Debug\NEPS.Cabinet.dll
+C:\Documents and Settings\Administrator\Desktop\Copper\Cabinet Config 1.0\obj\Debug\NEPS.Cabinet.pdb

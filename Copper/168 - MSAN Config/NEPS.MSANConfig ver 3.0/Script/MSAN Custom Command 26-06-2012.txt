@@ -1,0 +1,14 @@
+---Copy MSAN configuration CustomCommand - m.zam @ 09-4-2012
+ Insert into G3E_CUSTOMCOMMAND
+   (G3E_CCNO, G3E_USERNAME, G3E_DESCRIPTION, G3E_AUTHOR, 
+   G3E_LARGEBITMAP, G3E_SMALLBITMAP, G3E_TOOLTIP, G3E_COMMANDCLASS, G3E_ENABLINGMASK, G3E_MODALITY, G3E_SELECTSETENABLINGMASK, G3E_MENUORDINAL, 
+   G3E_EDITDATE, G3E_INTERFACE)
+ Values
+   ((select max(G3E_CCNO)+1 from G3E_CUSTOMCOMMAND), 'MSAN Config', 'MSAN Config', 'Antaragrafik Systems Sdn Bhd', 
+   0, 0, 'MSAN_Config', 1, 8388624, 0, 0, 1, 
+   SYSDATE, 'NEPS.MSANConfig:NEPS.GTechnology.MSANConfig.GTMSAN');
+ COMMIT;
+
+ 
+ -- to clear metadata pub
+ SQL> update g3e_metadataversion set g3e_comments=null where g3e_comments is not null;

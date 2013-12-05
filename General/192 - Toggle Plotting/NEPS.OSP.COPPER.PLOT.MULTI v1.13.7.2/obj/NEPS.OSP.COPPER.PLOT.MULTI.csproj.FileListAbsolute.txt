@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\NEPS.OSP.COPPER.PLOT.MULTI.frmMultiPlot.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\NEPS.OSP.COPPER.PLOT.MULTI.usrPlotProperties.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\NEPS.OSP.COPPER.PLOT.MULTI.csproj.GenerateResource.Cache
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.PLOT.MULTI.dll
+C:\Program Files\Intergraph\GTechnology\Program\NEPS.OSP.COPPER.PLOT.MULTI.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\NEPS.OSP.COPPER.PLOT.MULTI.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\NEPS.OSP.COPPER.PLOT.MULTI.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\NEPS.OSP.COPPER.PLOT.MULTI.usrPlotList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\MultiPlot\NEPS.OSP.COPPER.PLOT.MULTI\obj\Debug\NEPS.OSP.COPPER.PLOT.MULTI.Properties.Resources.resources
